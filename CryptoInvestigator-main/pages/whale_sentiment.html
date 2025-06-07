@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>大戶與散戶行為 - 比特幣數據視覺化</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>比特幣數據視覺化儀表板</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">首頁</a></li>
+                <li><a href="participants.html">交易者分析</a></li>
+                <li><a href="timeline_events.html">價格與事件時間軸</a></li>
+                <li><a href="btc_vs_stocks.html">比特幣 vs. 股市</a></li>
+                <li><a href="whale_sentiment.html">大戶與散戶行為</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="whale-retail-analysis">
+            <h2>大戶與散戶行為分析</h2>
+            <p>此頁面旨在探索比特幣市場中大額持有者（"大戶" 或 "Whales"）與小型投資者（"散戶" 或 "Retail Investors"）的行為模式及其對市場可能產生的影響。通過分析鏈上數據和市場指標，我們可以嘗試識別這些不同群體的活動特徵和潛在的市場情緒。</p>
+            <p>我們將主要觀察以下鏈上指標：</p>
+            <ul>
+                <li><strong>交易所比特幣總餘額 (Exchange Balance):</strong> 追蹤比特幣在交易所的總餘額變化，餘額增加可能意味著潛在賣壓，減少則可能表示資金流出交易所進行長期持有。</li>
+                <li><strong>鏈上交易總量 (On-chain Transaction Volume):</strong> 分析鏈上每日的總交易量，觀察市場活躍程度的變化。</li>
+            </ul>
+            <p>理解這些不同參與者的動態，有助於更全面地把握市場趨勢和潛在的轉折點。</p>
+            
+            <div id="whale-retail-charts">
+                <!-- 圖表將在此處通過 JavaScript 生成 -->
+                <div class="chart-section">
+                    <h3>交易所比特幣總餘額</h3>
+                    <div class="chart-container">
+                        <canvas id="exchangeNetflowChart"></canvas>
+                    </div>
+                    <div class="data-description">
+                        <p>此圖表顯示主要交易所中比特幣總餘額的每日變化。餘額上升通常表示更多比特幣被存入交易所，可能預示潛在的賣出壓力；餘額下降則表示比特幣從交易所提出，可能意味著投資者傾向于持有。</p>
+                    </div>
+                </div>
+
+                <div class="chart-section">
+                    <h3>鏈上交易總量</h3>
+                    <div class="chart-container">
+                        <canvas id="largeTransactionsChart"></canvas>
+                    </div>
+                    <div class="data-description">
+                        <p>此圖表追蹤每日在比特幣鏈上發生的總交易量。交易量的顯著變化可能與市場情緒轉變或大戶活動有關。</p>
+                    </div>
+                </div>
+                
+                <!-- 未來可能加入更多圖表，例如： -->
+                <!--
+                <div class="chart-section">
+                    <h3>持幣大戶數量變化</h3>
+                    <div class="chart-container">
+                        <canvas id="whaleCountChart"></canvas>
+                    </div>
+                    <div class="data-description">
+                        <p>此圖表展示持有大量比特幣（例如超過1000 BTC）的地址數量隨時間的變化。</p>
+                    </div>
+                </div>
+                -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 您的期末專案</p>
+    </footer>
+    <script src="../static/js/whale_sentiment_chart.js"></script>
+    <!-- 稍後會創建並引用此JS文件 -->
+</body>
+</html> 

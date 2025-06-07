@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>交易者分析 - 比特幣數據視覺化</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>比特幣數據視覺化儀表板</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">首頁</a></li>
+                <li><a href="participants.html">交易者分析</a></li>
+                <li><a href="timeline_events.html">價格與事件時間軸</a></li>
+                <li><a href="btc_vs_stocks.html">比特幣 vs. 股市</a></li>
+                <li><a href="whale_sentiment.html">大戶與散戶行為</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="participants-analysis">
+            <h2>交易者分析</h2>
+            <p>此頁面將利用幣安 (Binance) API 提供的市場數據，分析比特幣市場中不同參與者的行為跡象。由於直接的鏈上持有者分類數據難以通過公開免費API獲取，我們將轉向觀察市場指標來推測不同規模參與者的動向與市場情緒。分析可能包括：</p>
+            <ul>
+                <li><strong>資金費率 (Funding Rates):</strong> 觀察永續合約市場的資金費率變化，了解市場整體的多空傾向及其對價格的潛在影響。</li>
+                <li><strong>頂尖交易者多空比 (Top Trader Long/Short Ratio):</strong> 分析幣安頂尖交易者的持倉比例，作為市場情緒的一個參考指標。</li>
+                <li><strong>持倉量歷史 (Open Interest History):</strong> 追蹤合約市場的未平倉合約總量，反映市場的活躍度和資金投入情況。</li>
+            </ul>
+            <p>我們將探索這些指標如何幫助我們理解市場動態，以及不同市場力量之間的相互作用。</p>
+            <div id="participant-charts">
+                <!-- 圖表將在此處通過 JavaScript 生成 -->
+                <div id="funding-rate-chart-container" class="chart-container">
+                    <h3>資金費率歷史 (Funding Rate History)</h3>
+                    <canvas id="fundingRateChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3>多空比趨勢 (Long/Short Ratio)</h3>
+                    <canvas id="longShortRatioChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3>持倉量歷史 (Open Interest History)</h3>
+                    <canvas id="openInterestChart"></canvas>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 您的期末專案</p>
+    </footer>
+    <script src="../static/js/participants_chart.js"></script>
+</body>
+</html> 

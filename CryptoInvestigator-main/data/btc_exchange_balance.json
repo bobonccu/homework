@@ -1,0 +1,1346 @@
+[
+    {
+        "datetime": "2024-05-30",
+        "exchange_balance": 4857.684921759983
+    },
+    {
+        "datetime": "2024-05-31",
+        "exchange_balance": -13990.25841664
+    },
+    {
+        "datetime": "2024-06-01",
+        "exchange_balance": 124.098132910008
+    },
+    {
+        "datetime": "2024-06-02",
+        "exchange_balance": 69.639958509987
+    },
+    {
+        "datetime": "2024-06-03",
+        "exchange_balance": -3852.212172199982
+    },
+    {
+        "datetime": "2024-06-04",
+        "exchange_balance": -3320.02387710999
+    },
+    {
+        "datetime": "2024-06-05",
+        "exchange_balance": -2393.022739410003
+    },
+    {
+        "datetime": "2024-06-06",
+        "exchange_balance": -559.931136769988
+    },
+    {
+        "datetime": "2024-06-07",
+        "exchange_balance": -264.063383410006
+    },
+    {
+        "datetime": "2024-06-08",
+        "exchange_balance": 552.261808850011
+    },
+    {
+        "datetime": "2024-06-09",
+        "exchange_balance": -159.071034109999
+    },
+    {
+        "datetime": "2024-06-10",
+        "exchange_balance": 333.488337109998
+    },
+    {
+        "datetime": "2024-06-11",
+        "exchange_balance": -11627.50553451999
+    },
+    {
+        "datetime": "2024-06-12",
+        "exchange_balance": -3171.205001760018
+    },
+    {
+        "datetime": "2024-06-13",
+        "exchange_balance": -5726.416301469989
+    },
+    {
+        "datetime": "2024-06-14",
+        "exchange_balance": 3524.176576020018
+    },
+    {
+        "datetime": "2024-06-15",
+        "exchange_balance": 621.158175529999
+    },
+    {
+        "datetime": "2024-06-16",
+        "exchange_balance": -698.995951220007
+    },
+    {
+        "datetime": "2024-06-17",
+        "exchange_balance": 1967.642404519987
+    },
+    {
+        "datetime": "2024-06-18",
+        "exchange_balance": -434.705971520011
+    },
+    {
+        "datetime": "2024-06-19",
+        "exchange_balance": -4830.980734909968
+    },
+    {
+        "datetime": "2024-06-20",
+        "exchange_balance": -1051.348126540002
+    },
+    {
+        "datetime": "2024-06-21",
+        "exchange_balance": -3355.054764189977
+    },
+    {
+        "datetime": "2024-06-22",
+        "exchange_balance": -1618.246412160005
+    },
+    {
+        "datetime": "2024-06-23",
+        "exchange_balance": 93.319142460009
+    },
+    {
+        "datetime": "2024-06-24",
+        "exchange_balance": 2990.236025620013
+    },
+    {
+        "datetime": "2024-06-25",
+        "exchange_balance": -5109.638760700003
+    },
+    {
+        "datetime": "2024-06-26",
+        "exchange_balance": 1931.939738980019
+    },
+    {
+        "datetime": "2024-06-27",
+        "exchange_balance": 4706.865556270008
+    },
+    {
+        "datetime": "2024-06-28",
+        "exchange_balance": 4239.317278260001
+    },
+    {
+        "datetime": "2024-06-29",
+        "exchange_balance": -2394.805767470001
+    },
+    {
+        "datetime": "2024-06-30",
+        "exchange_balance": -781.820205670006
+    },
+    {
+        "datetime": "2024-07-01",
+        "exchange_balance": -11.972340569973
+    },
+    {
+        "datetime": "2024-07-02",
+        "exchange_balance": 2703.047590639981
+    },
+    {
+        "datetime": "2024-07-03",
+        "exchange_balance": 1856.057845179988
+    },
+    {
+        "datetime": "2024-07-04",
+        "exchange_balance": 6334.301970390001
+    },
+    {
+        "datetime": "2024-07-05",
+        "exchange_balance": -7621.356691589994
+    },
+    {
+        "datetime": "2024-07-06",
+        "exchange_balance": -13336.480618579997
+    },
+    {
+        "datetime": "2024-07-07",
+        "exchange_balance": 600.542785219986
+    },
+    {
+        "datetime": "2024-07-08",
+        "exchange_balance": 6951.452599440054
+    },
+    {
+        "datetime": "2024-07-09",
+        "exchange_balance": 1294.984252889996
+    },
+    {
+        "datetime": "2024-07-10",
+        "exchange_balance": -608.524518799982
+    },
+    {
+        "datetime": "2024-07-11",
+        "exchange_balance": 718.664371649994
+    },
+    {
+        "datetime": "2024-07-12",
+        "exchange_balance": -768.531025420007
+    },
+    {
+        "datetime": "2024-07-13",
+        "exchange_balance": 1049.519091329975
+    },
+    {
+        "datetime": "2024-07-14",
+        "exchange_balance": 822.279079410001
+    },
+    {
+        "datetime": "2024-07-15",
+        "exchange_balance": -2506.036585769995
+    },
+    {
+        "datetime": "2024-07-16",
+        "exchange_balance": 1334.627489680004
+    },
+    {
+        "datetime": "2024-07-17",
+        "exchange_balance": -2817.954029069993
+    },
+    {
+        "datetime": "2024-07-18",
+        "exchange_balance": -482.734033880004
+    },
+    {
+        "datetime": "2024-07-19",
+        "exchange_balance": -4327.42890279999
+    },
+    {
+        "datetime": "2024-07-20",
+        "exchange_balance": 2643.986125600005
+    },
+    {
+        "datetime": "2024-07-21",
+        "exchange_balance": -570.496581089991
+    },
+    {
+        "datetime": "2024-07-22",
+        "exchange_balance": -4047.201316300022
+    },
+    {
+        "datetime": "2024-07-23",
+        "exchange_balance": -15989.97086012998
+    },
+    {
+        "datetime": "2024-07-24",
+        "exchange_balance": 45835.846665949975
+    },
+    {
+        "datetime": "2024-07-25",
+        "exchange_balance": 3882.214047139969
+    },
+    {
+        "datetime": "2024-07-26",
+        "exchange_balance": -4367.924625979992
+    },
+    {
+        "datetime": "2024-07-27",
+        "exchange_balance": -511.920082069988
+    },
+    {
+        "datetime": "2024-07-28",
+        "exchange_balance": 114.604474739868
+    },
+    {
+        "datetime": "2024-07-29",
+        "exchange_balance": -2924.209088190028
+    },
+    {
+        "datetime": "2024-07-30",
+        "exchange_balance": 4423.98477713001
+    },
+    {
+        "datetime": "2024-07-31",
+        "exchange_balance": -118.808357749986
+    },
+    {
+        "datetime": "2024-08-01",
+        "exchange_balance": -5514.055391880027
+    },
+    {
+        "datetime": "2024-08-02",
+        "exchange_balance": -6744.736435339964
+    },
+    {
+        "datetime": "2024-08-03",
+        "exchange_balance": -1170.447636269997
+    },
+    {
+        "datetime": "2024-08-04",
+        "exchange_balance": -1313.310353729971
+    },
+    {
+        "datetime": "2024-08-05",
+        "exchange_balance": -3041.825023359993
+    },
+    {
+        "datetime": "2024-08-06",
+        "exchange_balance": -1082.853482860033
+    },
+    {
+        "datetime": "2024-08-07",
+        "exchange_balance": -2413.32836045001
+    },
+    {
+        "datetime": "2024-08-08",
+        "exchange_balance": -10045.35988108003
+    },
+    {
+        "datetime": "2024-08-09",
+        "exchange_balance": 325.365670800038
+    },
+    {
+        "datetime": "2024-08-10",
+        "exchange_balance": -1108.606730380006
+    },
+    {
+        "datetime": "2024-08-11",
+        "exchange_balance": -4656.456202870016
+    },
+    {
+        "datetime": "2024-08-12",
+        "exchange_balance": 4016.025051090029
+    },
+    {
+        "datetime": "2024-08-13",
+        "exchange_balance": -1230.324856760005
+    },
+    {
+        "datetime": "2024-08-14",
+        "exchange_balance": 2066.828857819964
+    },
+    {
+        "datetime": "2024-08-15",
+        "exchange_balance": -8339.608141199975
+    },
+    {
+        "datetime": "2024-08-16",
+        "exchange_balance": -370.017959219973
+    },
+    {
+        "datetime": "2024-08-17",
+        "exchange_balance": 6783.312169920002
+    },
+    {
+        "datetime": "2024-08-18",
+        "exchange_balance": 1364.468108649979
+    },
+    {
+        "datetime": "2024-08-19",
+        "exchange_balance": -154.582711639973
+    },
+    {
+        "datetime": "2024-08-20",
+        "exchange_balance": -128.677756229988
+    },
+    {
+        "datetime": "2024-08-21",
+        "exchange_balance": -141.014019240009
+    },
+    {
+        "datetime": "2024-08-22",
+        "exchange_balance": 294.18460925002
+    },
+    {
+        "datetime": "2024-08-23",
+        "exchange_balance": -5766.866568899996
+    },
+    {
+        "datetime": "2024-08-24",
+        "exchange_balance": 2577.199687619973
+    },
+    {
+        "datetime": "2024-08-25",
+        "exchange_balance": 939.564745570009
+    },
+    {
+        "datetime": "2024-08-26",
+        "exchange_balance": -465.508667459987
+    },
+    {
+        "datetime": "2024-08-27",
+        "exchange_balance": 506.65522405002
+    },
+    {
+        "datetime": "2024-08-28",
+        "exchange_balance": -2084.531900609963
+    },
+    {
+        "datetime": "2024-08-29",
+        "exchange_balance": -20596.56142184999
+    },
+    {
+        "datetime": "2024-08-30",
+        "exchange_balance": 4944.241857059988
+    },
+    {
+        "datetime": "2024-08-31",
+        "exchange_balance": -878.744661020004
+    },
+    {
+        "datetime": "2024-09-01",
+        "exchange_balance": -691.859902900021
+    },
+    {
+        "datetime": "2024-09-02",
+        "exchange_balance": 951.122320189974
+    },
+    {
+        "datetime": "2024-09-03",
+        "exchange_balance": -716.33214045999
+    },
+    {
+        "datetime": "2024-09-04",
+        "exchange_balance": -2386.725099660084
+    },
+    {
+        "datetime": "2024-09-05",
+        "exchange_balance": 4461.918454980036
+    },
+    {
+        "datetime": "2024-09-06",
+        "exchange_balance": 2623.408579449999
+    },
+    {
+        "datetime": "2024-09-07",
+        "exchange_balance": -2230.590026869981
+    },
+    {
+        "datetime": "2024-09-08",
+        "exchange_balance": -1435.057905849999
+    },
+    {
+        "datetime": "2024-09-09",
+        "exchange_balance": -8668.561479769991
+    },
+    {
+        "datetime": "2024-09-10",
+        "exchange_balance": -25751.84351006001
+    },
+    {
+        "datetime": "2024-09-11",
+        "exchange_balance": -5883.485948889972
+    },
+    {
+        "datetime": "2024-09-12",
+        "exchange_balance": 898.621817920012
+    },
+    {
+        "datetime": "2024-09-13",
+        "exchange_balance": -3910.446150220016
+    },
+    {
+        "datetime": "2024-09-14",
+        "exchange_balance": -5365.019996939996
+    },
+    {
+        "datetime": "2024-09-15",
+        "exchange_balance": 1259.307691700001
+    },
+    {
+        "datetime": "2024-09-16",
+        "exchange_balance": 4983.576606750003
+    },
+    {
+        "datetime": "2024-09-17",
+        "exchange_balance": 3161.290741990006
+    },
+    {
+        "datetime": "2024-09-18",
+        "exchange_balance": 3009.781429140011
+    },
+    {
+        "datetime": "2024-09-19",
+        "exchange_balance": -3951.886240809967
+    },
+    {
+        "datetime": "2024-09-20",
+        "exchange_balance": 3810.26598878
+    },
+    {
+        "datetime": "2024-09-21",
+        "exchange_balance": 1437.614149080008
+    },
+    {
+        "datetime": "2024-09-22",
+        "exchange_balance": 276.149573079977
+    },
+    {
+        "datetime": "2024-09-23",
+        "exchange_balance": 2099.890451350008
+    },
+    {
+        "datetime": "2024-09-24",
+        "exchange_balance": -7510.803298479963
+    },
+    {
+        "datetime": "2024-09-25",
+        "exchange_balance": -2859.054824659994
+    },
+    {
+        "datetime": "2024-09-26",
+        "exchange_balance": -4813.351069320036
+    },
+    {
+        "datetime": "2024-09-27",
+        "exchange_balance": -3996.684619439981
+    },
+    {
+        "datetime": "2024-09-28",
+        "exchange_balance": 1145.75568754
+    },
+    {
+        "datetime": "2024-09-29",
+        "exchange_balance": 887.544622560001
+    },
+    {
+        "datetime": "2024-09-30",
+        "exchange_balance": 1520.950693280011
+    },
+    {
+        "datetime": "2024-10-01",
+        "exchange_balance": 5495.618461780011
+    },
+    {
+        "datetime": "2024-10-02",
+        "exchange_balance": -932.573341650009
+    },
+    {
+        "datetime": "2024-10-03",
+        "exchange_balance": 235.886043350036
+    },
+    {
+        "datetime": "2024-10-04",
+        "exchange_balance": -3736.70236097
+    },
+    {
+        "datetime": "2024-10-05",
+        "exchange_balance": -1686.240165440011
+    },
+    {
+        "datetime": "2024-10-06",
+        "exchange_balance": -2284.302546249981
+    },
+    {
+        "datetime": "2024-10-07",
+        "exchange_balance": -2260.462193389932
+    },
+    {
+        "datetime": "2024-10-08",
+        "exchange_balance": 956.409149359997
+    },
+    {
+        "datetime": "2024-10-09",
+        "exchange_balance": 2309.929205659984
+    },
+    {
+        "datetime": "2024-10-10",
+        "exchange_balance": -1260.880483330002
+    },
+    {
+        "datetime": "2024-10-11",
+        "exchange_balance": -4118.877659119973
+    },
+    {
+        "datetime": "2024-10-12",
+        "exchange_balance": -2482.529570609993
+    },
+    {
+        "datetime": "2024-10-13",
+        "exchange_balance": 206.496308439986
+    },
+    {
+        "datetime": "2024-10-14",
+        "exchange_balance": 1263.707679949999
+    },
+    {
+        "datetime": "2024-10-15",
+        "exchange_balance": -4327.523248529973
+    },
+    {
+        "datetime": "2024-10-16",
+        "exchange_balance": 4758.521493869997
+    },
+    {
+        "datetime": "2024-10-17",
+        "exchange_balance": -5295.76919284001
+    },
+    {
+        "datetime": "2024-10-18",
+        "exchange_balance": -4988.679693919992
+    },
+    {
+        "datetime": "2024-10-19",
+        "exchange_balance": -882.585139559986
+    },
+    {
+        "datetime": "2024-10-20",
+        "exchange_balance": -37504.28985082999
+    },
+    {
+        "datetime": "2024-10-21",
+        "exchange_balance": 378.049328650038
+    },
+    {
+        "datetime": "2024-10-22",
+        "exchange_balance": -4526.71998908999
+    },
+    {
+        "datetime": "2024-10-23",
+        "exchange_balance": -1880.300830430001
+    },
+    {
+        "datetime": "2024-10-24",
+        "exchange_balance": -920.232775870016
+    },
+    {
+        "datetime": "2024-10-25",
+        "exchange_balance": -1055.110127999995
+    },
+    {
+        "datetime": "2024-10-26",
+        "exchange_balance": -286.378035929995
+    },
+    {
+        "datetime": "2024-10-27",
+        "exchange_balance": 1652.957831729997
+    },
+    {
+        "datetime": "2024-10-28",
+        "exchange_balance": -5581.846521750005
+    },
+    {
+        "datetime": "2024-10-29",
+        "exchange_balance": 384.754025429987
+    },
+    {
+        "datetime": "2024-10-30",
+        "exchange_balance": -7484.828856970002
+    },
+    {
+        "datetime": "2024-10-31",
+        "exchange_balance": 3125.509905640012
+    },
+    {
+        "datetime": "2024-11-01",
+        "exchange_balance": 3554.969828049953
+    },
+    {
+        "datetime": "2024-11-02",
+        "exchange_balance": -240.824564989995
+    },
+    {
+        "datetime": "2024-11-03",
+        "exchange_balance": 1871.06601597
+    },
+    {
+        "datetime": "2024-11-04",
+        "exchange_balance": 1677.890241199995
+    },
+    {
+        "datetime": "2024-11-05",
+        "exchange_balance": 1511.080539530005
+    },
+    {
+        "datetime": "2024-11-06",
+        "exchange_balance": -11805.162725829985
+    },
+    {
+        "datetime": "2024-11-07",
+        "exchange_balance": -7457.618641770099
+    },
+    {
+        "datetime": "2024-11-08",
+        "exchange_balance": -1061.333416009989
+    },
+    {
+        "datetime": "2024-11-09",
+        "exchange_balance": 4691.869408420017
+    },
+    {
+        "datetime": "2024-11-10",
+        "exchange_balance": 1371.493942210035
+    },
+    {
+        "datetime": "2024-11-11",
+        "exchange_balance": -697.224255429988
+    },
+    {
+        "datetime": "2024-11-12",
+        "exchange_balance": -3588.000570130002
+    },
+    {
+        "datetime": "2024-11-13",
+        "exchange_balance": -3825.212995469985
+    },
+    {
+        "datetime": "2024-11-14",
+        "exchange_balance": -5923.48602242999
+    },
+    {
+        "datetime": "2024-11-15",
+        "exchange_balance": -7455.605764199922
+    },
+    {
+        "datetime": "2024-11-16",
+        "exchange_balance": -798.93257901997
+    },
+    {
+        "datetime": "2024-11-17",
+        "exchange_balance": 1510.248630080031
+    },
+    {
+        "datetime": "2024-11-18",
+        "exchange_balance": -1634.202892239989
+    },
+    {
+        "datetime": "2024-11-19",
+        "exchange_balance": -48929.43821944997
+    },
+    {
+        "datetime": "2024-11-20",
+        "exchange_balance": -27825.40010765001
+    },
+    {
+        "datetime": "2024-11-21",
+        "exchange_balance": -9421.593600740001
+    },
+    {
+        "datetime": "2024-11-22",
+        "exchange_balance": -12070.351646770001
+    },
+    {
+        "datetime": "2024-11-23",
+        "exchange_balance": -1287.017634289996
+    },
+    {
+        "datetime": "2024-11-24",
+        "exchange_balance": -1725.755772720018
+    },
+    {
+        "datetime": "2024-11-25",
+        "exchange_balance": 1101.923674230005
+    },
+    {
+        "datetime": "2024-11-26",
+        "exchange_balance": -8390.085726729989
+    },
+    {
+        "datetime": "2024-11-27",
+        "exchange_balance": -19675.241425339955
+    },
+    {
+        "datetime": "2024-11-28",
+        "exchange_balance": -10909.953703769956
+    },
+    {
+        "datetime": "2024-11-29",
+        "exchange_balance": -3275.025813729991
+    },
+    {
+        "datetime": "2024-11-30",
+        "exchange_balance": -2895.851228289959
+    },
+    {
+        "datetime": "2024-12-01",
+        "exchange_balance": 449.348165150056
+    },
+    {
+        "datetime": "2024-12-02",
+        "exchange_balance": -3714.096208509971
+    },
+    {
+        "datetime": "2024-12-03",
+        "exchange_balance": 725.615456400036
+    },
+    {
+        "datetime": "2024-12-04",
+        "exchange_balance": -219.133477809957
+    },
+    {
+        "datetime": "2024-12-05",
+        "exchange_balance": 1334.095251480039
+    },
+    {
+        "datetime": "2024-12-06",
+        "exchange_balance": -2000.944569029977
+    },
+    {
+        "datetime": "2024-12-07",
+        "exchange_balance": 2427.488495729992
+    },
+    {
+        "datetime": "2024-12-08",
+        "exchange_balance": 98.283735910035
+    },
+    {
+        "datetime": "2024-12-09",
+        "exchange_balance": -7734.653144039959
+    },
+    {
+        "datetime": "2024-12-10",
+        "exchange_balance": -3970.37017535995
+    },
+    {
+        "datetime": "2024-12-11",
+        "exchange_balance": -12079.50761631992
+    },
+    {
+        "datetime": "2024-12-12",
+        "exchange_balance": -1076.511852889924
+    },
+    {
+        "datetime": "2024-12-13",
+        "exchange_balance": -7616.752580019971
+    },
+    {
+        "datetime": "2024-12-14",
+        "exchange_balance": 7044.660888280021
+    },
+    {
+        "datetime": "2024-12-15",
+        "exchange_balance": -2078.997511659973
+    },
+    {
+        "datetime": "2024-12-16",
+        "exchange_balance": -11737.651730770005
+    },
+    {
+        "datetime": "2024-12-17",
+        "exchange_balance": 182.968482490013
+    },
+    {
+        "datetime": "2024-12-18",
+        "exchange_balance": -9823.69467700997
+    },
+    {
+        "datetime": "2024-12-19",
+        "exchange_balance": 7060.098119490018
+    },
+    {
+        "datetime": "2024-12-20",
+        "exchange_balance": -2218.72667804997
+    },
+    {
+        "datetime": "2024-12-21",
+        "exchange_balance": -2388.904258969987
+    },
+    {
+        "datetime": "2024-12-22",
+        "exchange_balance": 952.690367370015
+    },
+    {
+        "datetime": "2024-12-23",
+        "exchange_balance": -101.653395389999
+    },
+    {
+        "datetime": "2024-12-24",
+        "exchange_balance": -1443.586223710011
+    },
+    {
+        "datetime": "2024-12-25",
+        "exchange_balance": -684.274215870013
+    },
+    {
+        "datetime": "2024-12-26",
+        "exchange_balance": 5696.436813579999
+    },
+    {
+        "datetime": "2024-12-27",
+        "exchange_balance": -5095.395634119982
+    },
+    {
+        "datetime": "2024-12-28",
+        "exchange_balance": -2738.642342079981
+    },
+    {
+        "datetime": "2024-12-29",
+        "exchange_balance": -6264.854138239998
+    },
+    {
+        "datetime": "2024-12-30",
+        "exchange_balance": -3842.301455970024
+    },
+    {
+        "datetime": "2024-12-31",
+        "exchange_balance": 836.25007771
+    },
+    {
+        "datetime": "2025-01-01",
+        "exchange_balance": -5792.482830649973
+    },
+    {
+        "datetime": "2025-01-02",
+        "exchange_balance": -1450.988014399999
+    },
+    {
+        "datetime": "2025-01-03",
+        "exchange_balance": -384.281655449964
+    },
+    {
+        "datetime": "2025-01-04",
+        "exchange_balance": -1057.445180390003
+    },
+    {
+        "datetime": "2025-01-05",
+        "exchange_balance": -1546.170345339993
+    },
+    {
+        "datetime": "2025-01-06",
+        "exchange_balance": -6907.48633263997
+    },
+    {
+        "datetime": "2025-01-07",
+        "exchange_balance": -10090.438096979966
+    },
+    {
+        "datetime": "2025-01-08",
+        "exchange_balance": -1455.753237629958
+    },
+    {
+        "datetime": "2025-01-09",
+        "exchange_balance": 2102.810945130048
+    },
+    {
+        "datetime": "2025-01-10",
+        "exchange_balance": -647.69010108989
+    },
+    {
+        "datetime": "2025-01-11",
+        "exchange_balance": 521.411555489982
+    },
+    {
+        "datetime": "2025-01-12",
+        "exchange_balance": 2949.81039742
+    },
+    {
+        "datetime": "2025-01-13",
+        "exchange_balance": 2109.98640358003
+    },
+    {
+        "datetime": "2025-01-14",
+        "exchange_balance": 719.082093549989
+    },
+    {
+        "datetime": "2025-01-15",
+        "exchange_balance": -597.005084669985
+    },
+    {
+        "datetime": "2025-01-16",
+        "exchange_balance": -3690.092892469982
+    },
+    {
+        "datetime": "2025-01-17",
+        "exchange_balance": -8182.922245959995
+    },
+    {
+        "datetime": "2025-01-18",
+        "exchange_balance": -1560.281361890002
+    },
+    {
+        "datetime": "2025-01-19",
+        "exchange_balance": 1939.621457799997
+    },
+    {
+        "datetime": "2025-01-20",
+        "exchange_balance": 3713.543100879989
+    },
+    {
+        "datetime": "2025-01-21",
+        "exchange_balance": -4059.856550509988
+    },
+    {
+        "datetime": "2025-01-22",
+        "exchange_balance": -1475.299977939977
+    },
+    {
+        "datetime": "2025-01-23",
+        "exchange_balance": -2743.579188719992
+    },
+    {
+        "datetime": "2025-01-24",
+        "exchange_balance": -3553.832616829989
+    },
+    {
+        "datetime": "2025-01-25",
+        "exchange_balance": -58.587387389998
+    },
+    {
+        "datetime": "2025-01-26",
+        "exchange_balance": -1459.591634949996
+    },
+    {
+        "datetime": "2025-01-27",
+        "exchange_balance": 273.442283200005
+    },
+    {
+        "datetime": "2025-01-28",
+        "exchange_balance": -839.885189569989
+    },
+    {
+        "datetime": "2025-01-29",
+        "exchange_balance": 1365.584095210005
+    },
+    {
+        "datetime": "2025-01-30",
+        "exchange_balance": -1246.559440259995
+    },
+    {
+        "datetime": "2025-01-31",
+        "exchange_balance": -3850.947272270002
+    },
+    {
+        "datetime": "2025-02-01",
+        "exchange_balance": 267.298435260007
+    },
+    {
+        "datetime": "2025-02-02",
+        "exchange_balance": 2804.108948630017
+    },
+    {
+        "datetime": "2025-02-03",
+        "exchange_balance": -2959.066328809999
+    },
+    {
+        "datetime": "2025-02-04",
+        "exchange_balance": 24865.988366360016
+    },
+    {
+        "datetime": "2025-02-05",
+        "exchange_balance": -33424.84477664998
+    },
+    {
+        "datetime": "2025-02-06",
+        "exchange_balance": 5353.086908120002
+    },
+    {
+        "datetime": "2025-02-07",
+        "exchange_balance": 2850.06833452003
+    },
+    {
+        "datetime": "2025-02-08",
+        "exchange_balance": -95.684204659977
+    },
+    {
+        "datetime": "2025-02-09",
+        "exchange_balance": 4784.431167440021
+    },
+    {
+        "datetime": "2025-02-10",
+        "exchange_balance": -858.239633939983
+    },
+    {
+        "datetime": "2025-02-11",
+        "exchange_balance": 1432.798372079981
+    },
+    {
+        "datetime": "2025-02-12",
+        "exchange_balance": 1314.268579770006
+    },
+    {
+        "datetime": "2025-02-13",
+        "exchange_balance": 3816.861618600013
+    },
+    {
+        "datetime": "2025-02-14",
+        "exchange_balance": -6233.881287109985
+    },
+    {
+        "datetime": "2025-02-15",
+        "exchange_balance": -113.202480959997
+    },
+    {
+        "datetime": "2025-02-16",
+        "exchange_balance": -1362.359895739996
+    },
+    {
+        "datetime": "2025-02-17",
+        "exchange_balance": 1326.569234360013
+    },
+    {
+        "datetime": "2025-02-18",
+        "exchange_balance": 3564.813558490017
+    },
+    {
+        "datetime": "2025-02-19",
+        "exchange_balance": -848.780070709976
+    },
+    {
+        "datetime": "2025-02-20",
+        "exchange_balance": -3459.558638659996
+    },
+    {
+        "datetime": "2025-02-21",
+        "exchange_balance": -136.393807229988
+    },
+    {
+        "datetime": "2025-02-22",
+        "exchange_balance": 5881.507335250052
+    },
+    {
+        "datetime": "2025-02-23",
+        "exchange_balance": 1837.154710260048
+    },
+    {
+        "datetime": "2025-02-24",
+        "exchange_balance": 2597.194346650031
+    },
+    {
+        "datetime": "2025-02-25",
+        "exchange_balance": 15858.012384760015
+    },
+    {
+        "datetime": "2025-02-26",
+        "exchange_balance": -190.464903759977
+    },
+    {
+        "datetime": "2025-02-27",
+        "exchange_balance": -1286.199880519986
+    },
+    {
+        "datetime": "2025-02-28",
+        "exchange_balance": -9804.874599119974
+    },
+    {
+        "datetime": "2025-03-01",
+        "exchange_balance": -932.46347934999
+    },
+    {
+        "datetime": "2025-03-02",
+        "exchange_balance": -5404.776619519997
+    },
+    {
+        "datetime": "2025-03-03",
+        "exchange_balance": 7234.30567477001
+    },
+    {
+        "datetime": "2025-03-04",
+        "exchange_balance": -2128.074706889995
+    },
+    {
+        "datetime": "2025-03-05",
+        "exchange_balance": 1985.71412014
+    },
+    {
+        "datetime": "2025-03-06",
+        "exchange_balance": 1965.185001560012
+    },
+    {
+        "datetime": "2025-03-07",
+        "exchange_balance": 4538.855786470001
+    },
+    {
+        "datetime": "2025-03-08",
+        "exchange_balance": 469.047770810002
+    },
+    {
+        "datetime": "2025-03-09",
+        "exchange_balance": -712.66592387001
+    },
+    {
+        "datetime": "2025-03-10",
+        "exchange_balance": -2846.74352635998
+    },
+    {
+        "datetime": "2025-03-11",
+        "exchange_balance": 2267.661665420002
+    },
+    {
+        "datetime": "2025-03-12",
+        "exchange_balance": -1174.76667816999
+    },
+    {
+        "datetime": "2025-03-13",
+        "exchange_balance": 1762.35068909
+    },
+    {
+        "datetime": "2025-03-14",
+        "exchange_balance": 1733.231517540005
+    },
+    {
+        "datetime": "2025-03-15",
+        "exchange_balance": -1079.88929726
+    },
+    {
+        "datetime": "2025-03-16",
+        "exchange_balance": 427.043294320029
+    },
+    {
+        "datetime": "2025-03-17",
+        "exchange_balance": -44.259131240006
+    },
+    {
+        "datetime": "2025-03-18",
+        "exchange_balance": 1605.785657400002
+    },
+    {
+        "datetime": "2025-03-19",
+        "exchange_balance": -3851.945100530003
+    },
+    {
+        "datetime": "2025-03-20",
+        "exchange_balance": -1827.067974250013
+    },
+    {
+        "datetime": "2025-03-21",
+        "exchange_balance": 692.348133289992
+    },
+    {
+        "datetime": "2025-03-22",
+        "exchange_balance": -471.361872739997
+    },
+    {
+        "datetime": "2025-03-23",
+        "exchange_balance": -1109.287649939999
+    },
+    {
+        "datetime": "2025-03-24",
+        "exchange_balance": -9190.809146399994
+    },
+    {
+        "datetime": "2025-03-25",
+        "exchange_balance": -19811.014072879985
+    },
+    {
+        "datetime": "2025-03-26",
+        "exchange_balance": 1465.849134849999
+    },
+    {
+        "datetime": "2025-03-27",
+        "exchange_balance": -3804.220828069999
+    },
+    {
+        "datetime": "2025-03-28",
+        "exchange_balance": -883.620830799998
+    },
+    {
+        "datetime": "2025-03-29",
+        "exchange_balance": 939.262305949999
+    },
+    {
+        "datetime": "2025-03-30",
+        "exchange_balance": 817.176181719997
+    },
+    {
+        "datetime": "2025-03-31",
+        "exchange_balance": 478.319327270003
+    },
+    {
+        "datetime": "2025-04-01",
+        "exchange_balance": -132.90963643
+    },
+    {
+        "datetime": "2025-04-02",
+        "exchange_balance": -897.050547269992
+    },
+    {
+        "datetime": "2025-04-03",
+        "exchange_balance": -1182.947533849991
+    },
+    {
+        "datetime": "2025-04-04",
+        "exchange_balance": -820.288583100005
+    },
+    {
+        "datetime": "2025-04-05",
+        "exchange_balance": 2968.105745010003
+    },
+    {
+        "datetime": "2025-04-06",
+        "exchange_balance": 5.526641880029
+    },
+    {
+        "datetime": "2025-04-07",
+        "exchange_balance": 1006.120644350003
+    },
+    {
+        "datetime": "2025-04-08",
+        "exchange_balance": 4749.871299210009
+    },
+    {
+        "datetime": "2025-04-09",
+        "exchange_balance": -5768.370737479994
+    },
+    {
+        "datetime": "2025-04-10",
+        "exchange_balance": -2149.772201440014
+    },
+    {
+        "datetime": "2025-04-11",
+        "exchange_balance": -842.642903169967
+    },
+    {
+        "datetime": "2025-04-12",
+        "exchange_balance": 3468.271764300015
+    },
+    {
+        "datetime": "2025-04-13",
+        "exchange_balance": 975.165025850004
+    },
+    {
+        "datetime": "2025-04-14",
+        "exchange_balance": -6268.477501809995
+    },
+    {
+        "datetime": "2025-04-15",
+        "exchange_balance": -2280.604413190001
+    },
+    {
+        "datetime": "2025-04-16",
+        "exchange_balance": -3690.23827320997
+    },
+    {
+        "datetime": "2025-04-17",
+        "exchange_balance": -2811.662506500095
+    },
+    {
+        "datetime": "2025-04-18",
+        "exchange_balance": -320.186297900016
+    },
+    {
+        "datetime": "2025-04-19",
+        "exchange_balance": -1341.521802309992
+    },
+    {
+        "datetime": "2025-04-20",
+        "exchange_balance": -947.301228799995
+    },
+    {
+        "datetime": "2025-04-21",
+        "exchange_balance": -4150.271856879972
+    },
+    {
+        "datetime": "2025-04-22",
+        "exchange_balance": -7853.59427593
+    },
+    {
+        "datetime": "2025-04-23",
+        "exchange_balance": -5121.962088169968
+    },
+    {
+        "datetime": "2025-04-24",
+        "exchange_balance": -10767.498097319989
+    },
+    {
+        "datetime": "2025-04-25",
+        "exchange_balance": -17366.64109463999
+    },
+    {
+        "datetime": "2025-04-26",
+        "exchange_balance": 6583.547636629996
+    },
+    {
+        "datetime": "2025-04-27",
+        "exchange_balance": 2051.731781320045
+    },
+    {
+        "datetime": "2025-04-28",
+        "exchange_balance": -841.354035329993
+    },
+    {
+        "datetime": "2025-04-29",
+        "exchange_balance": -9920.953444159986
+    },
+    {
+        "datetime": "2025-04-30",
+        "exchange_balance": -310.353845629998
+    }
+]

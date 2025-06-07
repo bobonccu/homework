@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>比特幣 vs. 股市 - 比特幣數據視覺化</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <h1>比特幣數據視覺化儀表板</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">首頁</a></li>
+                <li><a href="participants.html">交易者分析</a></li>
+                <li><a href="timeline_events.html">價格與事件時間軸</a></li>
+                <li><a href="btc_vs_stocks.html">比特幣 vs. 股市</a></li>
+                <li><a href="whale_sentiment.html">大戶與散戶行為</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="btc-vs-stocks-analysis">
+            <h2>比特幣 vs. 股市</h2>
+            <p>此頁面將比較比特幣與傳統股票市場（例如：S&P 500, Nasdaq）的主要區別和潛在聯繫。比特幣的市場數據（如歷史價格、交易量、波動率指標）將主要通過幣安 (Binance) API 獲取。對應的股市數據則需整合其他第三方API或公開數據源。</p>
+            <p>我們將主要通過以下圖表分析兩者的關係：</p>
+            <ul>
+                <li><strong>波動性比較：</strong> 比較兩者的歷史價格波動幅度。</li>
+                <li><strong>相關性分析：</strong> 分析在不同市場環境下，比特幣價格與主要股指之間是否存在統計相關性。</li>
+            </ul>
+            <p>此分析旨在幫助理解比特幣作為一種新興資產類別，相對於傳統金融市場的獨特性及其可能的相互影響。</p>
+            <div id="btc-stock-charts">
+                <div class="chart-section">
+                    <h3>波動率比較 (BTC vs. SPY)</h3>
+                    <div class="chart-container">
+                        <canvas id="volatilityChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-section">
+                    <h3>30日滾動相關性 (BTC 日收益率 vs. SPY 日收益率)</h3>
+                    <div class="chart-container">
+                        <canvas id="correlationChart"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="data-description">
+                <h4>波動率數據說明：</h4>
+                <p>上圖展示了比特幣 (BTC) 和標準普爾500指數 (SPY) 在過去一段時間內的30日滾動年化波動率。波動率是衡量資產價格變動劇烈程度的指標。</p>
+                <ul>
+                    <li><strong>BTC 波動率 (橙色線):</strong> 代表比特幣價格的波動程度。</li>
+                    <li><strong>SPY 波動率 (藍色線):</strong> 代表S&P 500指數（通常被視為美國股市的代表）的波動程度。</li>
+                </ul>
+                <p>數據來源：BTC數據源自幣安交易所API (模擬)，SPY數據源自Yahoo Finance。</p>
+            </div>
+            <div class="data-description" style="margin-top: 20px;">
+                <h4>相關性數據說明：</h4>
+                <p>上圖展示了比特幣 (BTC) 日收益率與標準普爾500指數 (SPY) 日收益率之間的30日滾動相關性。相關性係數介於 -1 和 1 之間：</p>
+                <ul>
+                    <li><strong>接近 1:</strong> 表示兩者價格走勢高度正相關（同漲同跌）。</li>
+                    <li><strong>接近 -1:</strong> 表示兩者價格走勢高度負相關（一個漲另一個跌）。</li>
+                    <li><strong>接近 0:</strong> 表示兩者價格走勢之間沒有明顯的線性關係。</li>
+                </ul>
+                <p>此圖表有助於了解比特幣在多大程度上受到傳統市場情緒的影響，以及這種影響是否隨時間變化。</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 您的期末專案</p>
+    </footer>
+
+    <script>
+        async function fetchVolatilityDataAndDrawChart() {
+            try {
+                const response = await fetch('../data/volatility_comparison.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+
+                if (!data || data.length === 0) {
+                    console.warn('Volatility data is empty or not in expected format.');
+                    document.getElementById('volatilityChart').parentElement.innerHTML += '<p>無法載入波動率數據或數據為空。</p>';
+                    return;
+                }
+
+                const labels = data.map(item => item.date);
+                const btcVolatility = data.map(item => item.btc_volatility);
+                const spyVolatility = data.map(item => item.spy_volatility);
+                const btcSpyCorrelation = data.map(item => item.btc_spy_correlation);
+
+                const ctxVolatility = document.getElementById('volatilityChart').getContext('2d');
+                new Chart(ctxVolatility, {
+                    type: 'line',
+                    data: {
+                        labels: labels,
+                        datasets: [
+                            {
+                                label: 'BTC 波動率',
+                                data: btcVolatility,
+                                borderColor: 'rgba(255, 159, 64, 1)',
+                                backgroundColor: 'rgba(255, 159, 64, 0.2)',
+                                tension: 0.1,
+                                yAxisID: 'y',
+                            },
+                            {
+                                label: 'SPY 波動率',
+                                data: spyVolatility,
+                                borderColor: 'rgba(54, 162, 235, 1)',
+                                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                                tension: 0.1,
+                                yAxisID: 'y',
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            x: {
+                                title: {
+                                    display: true,
+                                    text: '日期'
+                                }
+                            },
+                            y: {
+                                type: 'linear',
+                                display: true,
+                                position: 'left',
+                                title: {
+                                    display: true,
+                                    text: '年化波動率'
+                                },
+                                beginAtZero: true
+                            }
+                        },
+                        plugins: {
+                            tooltip: {
+                                mode: 'index',
+                                intersect: false,
+                            },
+                            legend: {
+                                position: 'top',
+                            }
+                        }
+                    }
+                });
+
+                // Create Correlation Chart
+                if (btcSpyCorrelation.some(val => val !== null && val !== undefined)) { // Check if there is data
+                    const ctxCorrelation = document.getElementById('correlationChart').getContext('2d');
+                    new Chart(ctxCorrelation, {
+                        type: 'line',
+                        data: {
+                            labels: labels, // Use the same labels (dates)
+                            datasets: [
+                                {
+                                    label: 'BTC-SPY 30日滾動相關性',
+                                    data: btcSpyCorrelation,
+                                    borderColor: 'rgba(75, 192, 192, 1)',  // Greenish color
+                                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                                    tension: 0.1,
+                                    yAxisID: 'yCorrelation',
+                                }
+                            ]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            scales: {
+                                x: {
+                                    title: {
+                                        display: true,
+                                        text: '日期'
+                                    }
+                                },
+                                yCorrelation: { // Unique Y-axis ID
+                                    type: 'linear',
+                                    display: true,
+                                    position: 'left',
+                                    min: -1, // Correlation ranges from -1 to 1
+                                    max: 1,
+                                    title: {
+                                        display: true,
+                                        text: '相關性係數'
+                                    }
+                                }
+                            },
+                            plugins: {
+                                tooltip: {
+                                    mode: 'index',
+                                    intersect: false,
+                                },
+                                legend: {
+                                    position: 'top',
+                                }
+                            }
+                        }
+                    });
+                } else {
+                    document.getElementById('correlationChart').parentElement.innerHTML += '<p>無法載入相關性數據或數據為空。</p>';
+                }
+
+            } catch (error) {
+                console.error('Failed to load or render charts:', error);
+                const chartContainer = document.getElementById('volatilityChart').parentElement; // Main container
+                if (chartContainer) {
+                    // General error message, as individual charts might have specific messages
+                    let errorMessage = '<p>一個或多個圖表載入失敗。請檢查數據文件或控制台錯誤。</p>';
+                    if (!document.getElementById('volatilityChart').getContext('2d')) { // If volatility chart failed
+                         // chartContainer.innerHTML = errorMessage; // Avoid overwriting existing specific messages
+                    }
+                    if (!document.getElementById('correlationChart').getContext('2d')) {
+                         // Add error to correlation chart specific area if needed, or rely on general above
+                    }
+                }
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', fetchVolatilityDataAndDrawChart);
+    </script>
+</body>
+</html> 

@@ -1,0 +1,1322 @@
+[
+    {
+        "date": "2024-07-15",
+        "btc_volatility": 0.4780312884454556,
+        "spy_volatility": 0.08497164624949986,
+        "btc_spy_correlation": 0.1807673927194202
+    },
+    {
+        "date": "2024-07-16",
+        "btc_volatility": 0.47772481825545415,
+        "spy_volatility": 0.08255650891033528,
+        "btc_spy_correlation": 0.21959200967216244
+    },
+    {
+        "date": "2024-07-17",
+        "btc_volatility": 0.4802440807625245,
+        "spy_volatility": 0.10044237111497749,
+        "btc_spy_correlation": 0.2505777975666197
+    },
+    {
+        "date": "2024-07-18",
+        "btc_volatility": 0.47531730215165086,
+        "spy_volatility": 0.10586703938947924,
+        "btc_spy_correlation": 0.2462118033764263
+    },
+    {
+        "date": "2024-07-19",
+        "btc_volatility": 0.49725787005600963,
+        "spy_volatility": 0.10294010202031213,
+        "btc_spy_correlation": 0.1009297627334947
+    },
+    {
+        "date": "2024-07-22",
+        "btc_volatility": 0.4993236412064648,
+        "spy_volatility": 0.1078379103518803,
+        "btc_spy_correlation": 0.07870928793629518
+    },
+    {
+        "date": "2024-07-23",
+        "btc_volatility": 0.5033108149759252,
+        "spy_volatility": 0.10795050544578777,
+        "btc_spy_correlation": 0.08255121903635827
+    },
+    {
+        "date": "2024-07-24",
+        "btc_volatility": 0.47453551026744073,
+        "spy_volatility": 0.136325776262224,
+        "btc_spy_correlation": 0.09342712089526084
+    },
+    {
+        "date": "2024-07-25",
+        "btc_volatility": 0.4680275185934541,
+        "spy_volatility": 0.13755199851443445,
+        "btc_spy_correlation": 0.09794905912455884
+    },
+    {
+        "date": "2024-07-26",
+        "btc_volatility": 0.4746402486335893,
+        "spy_volatility": 0.14010634520919502,
+        "btc_spy_correlation": 0.1436950112713995
+    },
+    {
+        "date": "2024-07-29",
+        "btc_volatility": 0.47356170909766426,
+        "spy_volatility": 0.13997800939751462,
+        "btc_spy_correlation": 0.15010942205862635
+    },
+    {
+        "date": "2024-07-30",
+        "btc_volatility": 0.46590511531909834,
+        "spy_volatility": 0.14120217845969896,
+        "btc_spy_correlation": 0.158479919331845
+    },
+    {
+        "date": "2024-07-31",
+        "btc_volatility": 0.47440072324275917,
+        "spy_volatility": 0.1497312310591681,
+        "btc_spy_correlation": 0.08039229629107042
+    },
+    {
+        "date": "2024-08-01",
+        "btc_volatility": 0.4731265004089629,
+        "spy_volatility": 0.15778944190528144,
+        "btc_spy_correlation": 0.05291646495563687
+    },
+    {
+        "date": "2024-08-02",
+        "btc_volatility": 0.5065759404061823,
+        "spy_volatility": 0.17024628835170608,
+        "btc_spy_correlation": 0.2049420417709264
+    },
+    {
+        "date": "2024-08-05",
+        "btc_volatility": 0.5458352954973558,
+        "spy_volatility": 0.19699300888534915,
+        "btc_spy_correlation": 0.3837953299658823
+    },
+    {
+        "date": "2024-08-06",
+        "btc_volatility": 0.5439944103862834,
+        "spy_volatility": 0.20048918587792688,
+        "btc_spy_correlation": 0.42035117208486666
+    },
+    {
+        "date": "2024-08-07",
+        "btc_volatility": 0.5441584859956962,
+        "spy_volatility": 0.2004932515898229,
+        "btc_spy_correlation": 0.4169785284666996
+    },
+    {
+        "date": "2024-08-08",
+        "btc_volatility": 0.6814473560942736,
+        "spy_volatility": 0.2181203433604541,
+        "btc_spy_correlation": 0.5514443968770741
+    },
+    {
+        "date": "2024-08-09",
+        "btc_volatility": 0.6832780869469539,
+        "spy_volatility": 0.21874115776465647,
+        "btc_spy_correlation": 0.5403900684158812
+    },
+    {
+        "date": "2024-08-12",
+        "btc_volatility": 0.6918372953081683,
+        "spy_volatility": 0.21848006793106803,
+        "btc_spy_correlation": 0.538830194626857
+    },
+    {
+        "date": "2024-08-13",
+        "btc_volatility": 0.6892798290291067,
+        "spy_volatility": 0.22631767107523829,
+        "btc_spy_correlation": 0.5439846836386331
+    },
+    {
+        "date": "2024-08-14",
+        "btc_volatility": 0.6575611815399445,
+        "spy_volatility": 0.2252942601945561,
+        "btc_spy_correlation": 0.5385246388152192
+    },
+    {
+        "date": "2024-08-15",
+        "btc_volatility": 0.6594997236663451,
+        "spy_volatility": 0.23284744064424434,
+        "btc_spy_correlation": 0.5082700943260174
+    },
+    {
+        "date": "2024-08-16",
+        "btc_volatility": 0.6646267799818238,
+        "spy_volatility": 0.23210448405584957,
+        "btc_spy_correlation": 0.5154630184478903
+    },
+    {
+        "date": "2024-08-19",
+        "btc_volatility": 0.6523549539443417,
+        "spy_volatility": 0.2344478297990589,
+        "btc_spy_correlation": 0.5196459095754341
+    },
+    {
+        "date": "2024-08-20",
+        "btc_volatility": 0.6489125482520606,
+        "spy_volatility": 0.23453367436815453,
+        "btc_spy_correlation": 0.5222814204748389
+    },
+    {
+        "date": "2024-08-21",
+        "btc_volatility": 0.6637692055315073,
+        "spy_volatility": 0.23225984365149943,
+        "btc_spy_correlation": 0.5348892194816078
+    },
+    {
+        "date": "2024-08-22",
+        "btc_volatility": 0.6605342922142543,
+        "spy_volatility": 0.2319122850374378,
+        "btc_spy_correlation": 0.5377471399924629
+    },
+    {
+        "date": "2024-08-23",
+        "btc_volatility": 0.6955553503633624,
+        "spy_volatility": 0.23385812969108355,
+        "btc_spy_correlation": 0.5541371014133749
+    },
+    {
+        "date": "2024-08-26",
+        "btc_volatility": 0.6890666126087712,
+        "spy_volatility": 0.23383907735551726,
+        "btc_spy_correlation": 0.5689079868273186
+    },
+    {
+        "date": "2024-08-27",
+        "btc_volatility": 0.7122487305188396,
+        "spy_volatility": 0.23293008745124963,
+        "btc_spy_correlation": 0.5416854936334552
+    },
+    {
+        "date": "2024-08-28",
+        "btc_volatility": 0.7095184410454636,
+        "spy_volatility": 0.2284806707257226,
+        "btc_spy_correlation": 0.5403634549584162
+    },
+    {
+        "date": "2024-08-29",
+        "btc_volatility": 0.7098986920810039,
+        "spy_volatility": 0.22672752749111383,
+        "btc_spy_correlation": 0.543138552803443
+    },
+    {
+        "date": "2024-08-30",
+        "btc_volatility": 0.7060209503768811,
+        "spy_volatility": 0.22742121044798236,
+        "btc_spy_correlation": 0.5753382560766177
+    },
+    {
+        "date": "2024-09-03",
+        "btc_volatility": 0.6809763508035529,
+        "spy_volatility": 0.23675020112423809,
+        "btc_spy_correlation": 0.5959324791911788
+    },
+    {
+        "date": "2024-09-04",
+        "btc_volatility": 0.630628339656019,
+        "spy_volatility": 0.23679388408225044,
+        "btc_spy_correlation": 0.5950275449477334
+    },
+    {
+        "date": "2024-09-05",
+        "btc_volatility": 0.6287787135311628,
+        "spy_volatility": 0.22261856138697675,
+        "btc_spy_correlation": 0.6189311524101045
+    },
+    {
+        "date": "2024-09-06",
+        "btc_volatility": 0.641814216784502,
+        "spy_volatility": 0.22998869013468262,
+        "btc_spy_correlation": 0.6418797375297637
+    },
+    {
+        "date": "2024-09-09",
+        "btc_volatility": 0.5025373746840623,
+        "spy_volatility": 0.22998652836250455,
+        "btc_spy_correlation": 0.6436597981242098
+    },
+    {
+        "date": "2024-09-10",
+        "btc_volatility": 0.48846907106448206,
+        "spy_volatility": 0.23044349035376926,
+        "btc_spy_correlation": 0.6484210798550386
+    },
+    {
+        "date": "2024-09-11",
+        "btc_volatility": 0.4870755531497286,
+        "spy_volatility": 0.23213188050974515,
+        "btc_spy_correlation": 0.6382465166453841
+    },
+    {
+        "date": "2024-09-12",
+        "btc_volatility": 0.48372520038698535,
+        "spy_volatility": 0.2271344448017968,
+        "btc_spy_correlation": 0.6905521235608746
+    },
+    {
+        "date": "2024-09-13",
+        "btc_volatility": 0.4921020703634952,
+        "spy_volatility": 0.2213043387502059,
+        "btc_spy_correlation": 0.7224445469152313
+    },
+    {
+        "date": "2024-09-16",
+        "btc_volatility": 0.4861722014472367,
+        "spy_volatility": 0.20942171519406916,
+        "btc_spy_correlation": 0.6914484296819245
+    },
+    {
+        "date": "2024-09-17",
+        "btc_volatility": 0.4980450679838251,
+        "spy_volatility": 0.17725430769163156,
+        "btc_spy_correlation": 0.6087247048082431
+    },
+    {
+        "date": "2024-09-18",
+        "btc_volatility": 0.5012604964623054,
+        "spy_volatility": 0.17685277836595634,
+        "btc_spy_correlation": 0.5822777648523283
+    },
+    {
+        "date": "2024-09-19",
+        "btc_volatility": 0.5039006318008267,
+        "spy_volatility": 0.1807548084571707,
+        "btc_spy_correlation": 0.570173286324305
+    },
+    {
+        "date": "2024-09-20",
+        "btc_volatility": 0.4889981883281322,
+        "spy_volatility": 0.1666090830161658,
+        "btc_spy_correlation": 0.4475403945339817
+    },
+    {
+        "date": "2024-09-23",
+        "btc_volatility": 0.43805694930403816,
+        "spy_volatility": 0.16645564508684685,
+        "btc_spy_correlation": 0.45533901252350195
+    },
+    {
+        "date": "2024-09-24",
+        "btc_volatility": 0.44106023703291747,
+        "spy_volatility": 0.16633098125007684,
+        "btc_spy_correlation": 0.4578092804595466
+    },
+    {
+        "date": "2024-09-25",
+        "btc_volatility": 0.43862661457036534,
+        "spy_volatility": 0.15912831104777497,
+        "btc_spy_correlation": 0.45046075696298465
+    },
+    {
+        "date": "2024-09-26",
+        "btc_volatility": 0.40493681213439664,
+        "spy_volatility": 0.15923908206280518,
+        "btc_spy_correlation": 0.4706173686173129
+    },
+    {
+        "date": "2024-09-27",
+        "btc_volatility": 0.40387715478140657,
+        "spy_volatility": 0.14967777277250424,
+        "btc_spy_correlation": 0.5680991532016897
+    },
+    {
+        "date": "2024-09-30",
+        "btc_volatility": 0.42512979894969105,
+        "spy_volatility": 0.14995536337820878,
+        "btc_spy_correlation": 0.5311276340153325
+    },
+    {
+        "date": "2024-10-01",
+        "btc_volatility": 0.43735076988553123,
+        "spy_volatility": 0.15099644514860716,
+        "btc_spy_correlation": 0.5539892498615389
+    },
+    {
+        "date": "2024-10-02",
+        "btc_volatility": 0.42421623479891946,
+        "spy_volatility": 0.1507741594842898,
+        "btc_spy_correlation": 0.5526070816196289
+    },
+    {
+        "date": "2024-10-03",
+        "btc_volatility": 0.41120837571174595,
+        "spy_volatility": 0.15070440251466666,
+        "btc_spy_correlation": 0.5526714533796137
+    },
+    {
+        "date": "2024-10-04",
+        "btc_volatility": 0.4165136626998827,
+        "spy_volatility": 0.15039215061749656,
+        "btc_spy_correlation": 0.5597021203275616
+    },
+    {
+        "date": "2024-10-07",
+        "btc_volatility": 0.3719655054836231,
+        "spy_volatility": 0.15039569721672216,
+        "btc_spy_correlation": 0.5247223222519289
+    },
+    {
+        "date": "2024-10-08",
+        "btc_volatility": 0.3712717032868593,
+        "spy_volatility": 0.15321608498878267,
+        "btc_spy_correlation": 0.5098261309795796
+    },
+    {
+        "date": "2024-10-09",
+        "btc_volatility": 0.36191766179642326,
+        "spy_volatility": 0.15466711793341945,
+        "btc_spy_correlation": 0.519987271801316
+    },
+    {
+        "date": "2024-10-10",
+        "btc_volatility": 0.36153966699295353,
+        "spy_volatility": 0.15304436213920228,
+        "btc_spy_correlation": 0.5196966672130859
+    },
+    {
+        "date": "2024-10-11",
+        "btc_volatility": 0.38052571255984796,
+        "spy_volatility": 0.15389518582055212,
+        "btc_spy_correlation": 0.5278543107351222
+    },
+    {
+        "date": "2024-10-14",
+        "btc_volatility": 0.39306320492887975,
+        "spy_volatility": 0.15305318053144817,
+        "btc_spy_correlation": 0.5621385730906997
+    },
+    {
+        "date": "2024-10-15",
+        "btc_volatility": 0.3896617672570705,
+        "spy_volatility": 0.1354851452095079,
+        "btc_spy_correlation": 0.49193414398800106
+    },
+    {
+        "date": "2024-10-16",
+        "btc_volatility": 0.38311189211599656,
+        "spy_volatility": 0.13505900232255302,
+        "btc_spy_correlation": 0.49771886746491706
+    },
+    {
+        "date": "2024-10-17",
+        "btc_volatility": 0.3673829492701114,
+        "spy_volatility": 0.1343087928894859,
+        "btc_spy_correlation": 0.4892105792541187
+    },
+    {
+        "date": "2024-10-18",
+        "btc_volatility": 0.36248184948077167,
+        "spy_volatility": 0.11580228985348362,
+        "btc_spy_correlation": 0.38265706436487695
+    },
+    {
+        "date": "2024-10-21",
+        "btc_volatility": 0.3712723016683546,
+        "spy_volatility": 0.11262617848043184,
+        "btc_spy_correlation": 0.35388163442345033
+    },
+    {
+        "date": "2024-10-22",
+        "btc_volatility": 0.3712739756423336,
+        "spy_volatility": 0.11280318046200341,
+        "btc_spy_correlation": 0.3540095331463022
+    },
+    {
+        "date": "2024-10-23",
+        "btc_volatility": 0.37367702272624126,
+        "spy_volatility": 0.11552142322442635,
+        "btc_spy_correlation": 0.4120575664124154
+    },
+    {
+        "date": "2024-10-24",
+        "btc_volatility": 0.378365651177064,
+        "spy_volatility": 0.11283778206020834,
+        "btc_spy_correlation": 0.4061268964874602
+    },
+    {
+        "date": "2024-10-25",
+        "btc_volatility": 0.38175569544858673,
+        "spy_volatility": 0.11207022857771395,
+        "btc_spy_correlation": 0.38986830710514186
+    },
+    {
+        "date": "2024-10-28",
+        "btc_volatility": 0.38019523122210747,
+        "spy_volatility": 0.1122772444743286,
+        "btc_spy_correlation": 0.40053948823997987
+    },
+    {
+        "date": "2024-10-29",
+        "btc_volatility": 0.4011644502558648,
+        "spy_volatility": 0.11225353915102938,
+        "btc_spy_correlation": 0.40767909457164136
+    },
+    {
+        "date": "2024-10-30",
+        "btc_volatility": 0.37830115676723314,
+        "spy_volatility": 0.1122815965354139,
+        "btc_spy_correlation": 0.44438328190720017
+    },
+    {
+        "date": "2024-10-31",
+        "btc_volatility": 0.36317406884119163,
+        "spy_volatility": 0.11970077784380075,
+        "btc_spy_correlation": 0.4962729284196562
+    },
+    {
+        "date": "2024-11-01",
+        "btc_volatility": 0.36674111391300274,
+        "spy_volatility": 0.12042580827974654,
+        "btc_spy_correlation": 0.4780078746707636
+    },
+    {
+        "date": "2024-11-04",
+        "btc_volatility": 0.369218630337658,
+        "spy_volatility": 0.1203930332514845,
+        "btc_spy_correlation": 0.48621629658715143
+    },
+    {
+        "date": "2024-11-05",
+        "btc_volatility": 0.37404291259222816,
+        "spy_volatility": 0.12723830065860053,
+        "btc_spy_correlation": 0.5038364478049897
+    },
+    {
+        "date": "2024-11-06",
+        "btc_volatility": 0.4759288235235884,
+        "spy_volatility": 0.15288714302000872,
+        "btc_spy_correlation": 0.6589825402341437
+    },
+    {
+        "date": "2024-11-07",
+        "btc_volatility": 0.47523085784763275,
+        "spy_volatility": 0.1542913555626673,
+        "btc_spy_correlation": 0.6516568357833431
+    },
+    {
+        "date": "2024-11-08",
+        "btc_volatility": 0.46146336028717216,
+        "spy_volatility": 0.15428247565436662,
+        "btc_spy_correlation": 0.6558626419571018
+    },
+    {
+        "date": "2024-11-11",
+        "btc_volatility": 0.5738543829868528,
+        "spy_volatility": 0.1540393000177512,
+        "btc_spy_correlation": 0.5723358451229498
+    },
+    {
+        "date": "2024-11-12",
+        "btc_volatility": 0.5748698300399565,
+        "spy_volatility": 0.15036930149263258,
+        "btc_spy_correlation": 0.5462595179175062
+    },
+    {
+        "date": "2024-11-13",
+        "btc_volatility": 0.5602057846625789,
+        "spy_volatility": 0.15036290524856355,
+        "btc_spy_correlation": 0.5399442957897381
+    },
+    {
+        "date": "2024-11-14",
+        "btc_volatility": 0.5811162398399226,
+        "spy_volatility": 0.15254421201422608,
+        "btc_spy_correlation": 0.5589379805235862
+    },
+    {
+        "date": "2024-11-15",
+        "btc_volatility": 0.592488405071911,
+        "spy_volatility": 0.15785958024142271,
+        "btc_spy_correlation": 0.4614319555304926
+    },
+    {
+        "date": "2024-11-18",
+        "btc_volatility": 0.5952025223162319,
+        "spy_volatility": 0.1541942221077243,
+        "btc_spy_correlation": 0.44677123801465135
+    },
+    {
+        "date": "2024-11-19",
+        "btc_volatility": 0.5963443855239868,
+        "spy_volatility": 0.1515924255055613,
+        "btc_spy_correlation": 0.4721973640430507
+    },
+    {
+        "date": "2024-11-20",
+        "btc_volatility": 0.584519979137815,
+        "spy_volatility": 0.15009182001257515,
+        "btc_spy_correlation": 0.5182864948761191
+    },
+    {
+        "date": "2024-11-21",
+        "btc_volatility": 0.5929060472194599,
+        "spy_volatility": 0.15062664702298884,
+        "btc_spy_correlation": 0.5230087183424202
+    },
+    {
+        "date": "2024-11-22",
+        "btc_volatility": 0.5870476328057176,
+        "spy_volatility": 0.14976440343401842,
+        "btc_spy_correlation": 0.5116982712425256
+    },
+    {
+        "date": "2024-11-25",
+        "btc_volatility": 0.621268478507935,
+        "spy_volatility": 0.14776765202696365,
+        "btc_spy_correlation": 0.4377707834306835
+    },
+    {
+        "date": "2024-11-26",
+        "btc_volatility": 0.6261872807512296,
+        "spy_volatility": 0.1452398181820816,
+        "btc_spy_correlation": 0.43587180591835445
+    },
+    {
+        "date": "2024-11-27",
+        "btc_volatility": 0.6330069498425384,
+        "spy_volatility": 0.14551201846631798,
+        "btc_spy_correlation": 0.41088158552942483
+    },
+    {
+        "date": "2024-11-29",
+        "btc_volatility": 0.6244288966878964,
+        "spy_volatility": 0.14661285161841503,
+        "btc_spy_correlation": 0.41228797112314775
+    },
+    {
+        "date": "2024-12-02",
+        "btc_volatility": 0.6131844317618966,
+        "spy_volatility": 0.14631488263466963,
+        "btc_spy_correlation": 0.40567031278653337
+    },
+    {
+        "date": "2024-12-03",
+        "btc_volatility": 0.6103614074093922,
+        "spy_volatility": 0.14600267162938613,
+        "btc_spy_correlation": 0.40131223890189727
+    },
+    {
+        "date": "2024-12-04",
+        "btc_volatility": 0.6062264912593924,
+        "spy_volatility": 0.14690597224945748,
+        "btc_spy_correlation": 0.4063502652097817
+    },
+    {
+        "date": "2024-12-05",
+        "btc_volatility": 0.613857502952965,
+        "spy_volatility": 0.14240266855859443,
+        "btc_spy_correlation": 0.3953265139483422
+    },
+    {
+        "date": "2024-12-06",
+        "btc_volatility": 0.550497064133538,
+        "spy_volatility": 0.1423934171305959,
+        "btc_spy_correlation": 0.3941666778770993
+    },
+    {
+        "date": "2024-12-09",
+        "btc_volatility": 0.5752021089257383,
+        "spy_volatility": 0.14420798834119256,
+        "btc_spy_correlation": 0.4176646258395817
+    },
+    {
+        "date": "2024-12-10",
+        "btc_volatility": 0.5591684796093263,
+        "spy_volatility": 0.14495199099333053,
+        "btc_spy_correlation": 0.4222215480716778
+    },
+    {
+        "date": "2024-12-11",
+        "btc_volatility": 0.4634470926213987,
+        "spy_volatility": 0.14669632956741935,
+        "btc_spy_correlation": 0.44359858144057834
+    },
+    {
+        "date": "2024-12-12",
+        "btc_volatility": 0.46468244455915014,
+        "spy_volatility": 0.1477009386425411,
+        "btc_spy_correlation": 0.44850610209554514
+    },
+    {
+        "date": "2024-12-13",
+        "btc_volatility": 0.4586680708761661,
+        "spy_volatility": 0.12703596366434944,
+        "btc_spy_correlation": 0.4021499045194113
+    },
+    {
+        "date": "2024-12-16",
+        "btc_volatility": 0.4269822350481872,
+        "spy_volatility": 0.12704672466258826,
+        "btc_spy_correlation": 0.41463241020683983
+    },
+    {
+        "date": "2024-12-17",
+        "btc_volatility": 0.42455958229494273,
+        "spy_volatility": 0.12804616825156248,
+        "btc_spy_correlation": 0.40958140750785227
+    },
+    {
+        "date": "2024-12-18",
+        "btc_volatility": 0.475885289502218,
+        "spy_volatility": 0.1645870919746491,
+        "btc_spy_correlation": 0.525173040765596
+    },
+    {
+        "date": "2024-12-19",
+        "btc_volatility": 0.48389926169453196,
+        "spy_volatility": 0.1393313024355475,
+        "btc_spy_correlation": 0.38441788402098
+    },
+    {
+        "date": "2024-12-20",
+        "btc_volatility": 0.47892627035289287,
+        "spy_volatility": 0.14316458860279999,
+        "btc_spy_correlation": 0.37181233275610176
+    },
+    {
+        "date": "2024-12-23",
+        "btc_volatility": 0.45945713886109874,
+        "spy_volatility": 0.14392623539327024,
+        "btc_spy_correlation": 0.35969572815235573
+    },
+    {
+        "date": "2024-12-24",
+        "btc_volatility": 0.4807153634565721,
+        "spy_volatility": 0.1490947317325288,
+        "btc_spy_correlation": 0.453290382477673
+    },
+    {
+        "date": "2024-12-26",
+        "btc_volatility": 0.46347077584128177,
+        "spy_volatility": 0.14859684674719026,
+        "btc_spy_correlation": 0.4358876528831977
+    },
+    {
+        "date": "2024-12-27",
+        "btc_volatility": 0.44298982199191744,
+        "spy_volatility": 0.15339345535684787,
+        "btc_spy_correlation": 0.4531078961109046
+    },
+    {
+        "date": "2024-12-30",
+        "btc_volatility": 0.4425996424890925,
+        "spy_volatility": 0.15697284804029904,
+        "btc_spy_correlation": 0.440554502194717
+    },
+    {
+        "date": "2024-12-31",
+        "btc_volatility": 0.4427015561902416,
+        "spy_volatility": 0.1507986840644313,
+        "btc_spy_correlation": 0.5553930847984957
+    },
+    {
+        "date": "2025-01-02",
+        "btc_volatility": 0.4509165955672882,
+        "spy_volatility": 0.15037785215384536,
+        "btc_spy_correlation": 0.537613843760113
+    },
+    {
+        "date": "2025-01-03",
+        "btc_volatility": 0.4417145003777998,
+        "spy_volatility": 0.15618217591143305,
+        "btc_spy_correlation": 0.5298936202203501
+    },
+    {
+        "date": "2025-01-06",
+        "btc_volatility": 0.4475060534240373,
+        "spy_volatility": 0.15736687772683963,
+        "btc_spy_correlation": 0.5442406596107028
+    },
+    {
+        "date": "2025-01-07",
+        "btc_volatility": 0.48141400757955793,
+        "spy_volatility": 0.16145854281170133,
+        "btc_spy_correlation": 0.5738492030894808
+    },
+    {
+        "date": "2025-01-08",
+        "btc_volatility": 0.46779863454677384,
+        "spy_volatility": 0.16114598965217983,
+        "btc_spy_correlation": 0.5638513437364611
+    },
+    {
+        "date": "2025-01-10",
+        "btc_volatility": 0.4526918195802664,
+        "spy_volatility": 0.16888084637712114,
+        "btc_spy_correlation": 0.5389461749955695
+    },
+    {
+        "date": "2025-01-13",
+        "btc_volatility": 0.4479050441548315,
+        "spy_volatility": 0.16771097567739543,
+        "btc_spy_correlation": 0.5550728391024442
+    },
+    {
+        "date": "2025-01-14",
+        "btc_volatility": 0.4411067827303111,
+        "spy_volatility": 0.16772284182928018,
+        "btc_spy_correlation": 0.5924673264703606
+    },
+    {
+        "date": "2025-01-15",
+        "btc_volatility": 0.4623863905807899,
+        "spy_volatility": 0.17885075513698975,
+        "btc_spy_correlation": 0.6234109513575613
+    },
+    {
+        "date": "2025-01-16",
+        "btc_volatility": 0.4624774543018797,
+        "spy_volatility": 0.1787495941634325,
+        "btc_spy_correlation": 0.6325829678557983
+    },
+    {
+        "date": "2025-01-17",
+        "btc_volatility": 0.4425775434209129,
+        "spy_volatility": 0.1824906365954141,
+        "btc_spy_correlation": 0.6509593516687724
+    },
+    {
+        "date": "2025-01-21",
+        "btc_volatility": 0.4545311388655128,
+        "spy_volatility": 0.18407311874649618,
+        "btc_spy_correlation": 0.6579388268985401
+    },
+    {
+        "date": "2025-01-22",
+        "btc_volatility": 0.463559099063625,
+        "spy_volatility": 0.18504620427333698,
+        "btc_spy_correlation": 0.628037725452138
+    },
+    {
+        "date": "2025-01-23",
+        "btc_volatility": 0.44434019178205486,
+        "spy_volatility": 0.18588560487116068,
+        "btc_spy_correlation": 0.6283153945482313
+    },
+    {
+        "date": "2025-01-24",
+        "btc_volatility": 0.4446113872283069,
+        "spy_volatility": 0.18522969235254202,
+        "btc_spy_correlation": 0.6224111240826498
+    },
+    {
+        "date": "2025-01-27",
+        "btc_volatility": 0.42550345266278256,
+        "spy_volatility": 0.19170217602792733,
+        "btc_spy_correlation": 0.6138893605837563
+    },
+    {
+        "date": "2025-01-28",
+        "btc_volatility": 0.4215856413660347,
+        "spy_volatility": 0.19216426516840032,
+        "btc_spy_correlation": 0.5836665886156163
+    },
+    {
+        "date": "2025-01-29",
+        "btc_volatility": 0.4249830157194994,
+        "spy_volatility": 0.1919523944049339,
+        "btc_spy_correlation": 0.5588922197323201
+    },
+    {
+        "date": "2025-01-30",
+        "btc_volatility": 0.42514522272980704,
+        "spy_volatility": 0.1928515811657317,
+        "btc_spy_correlation": 0.5622520698790547
+    },
+    {
+        "date": "2025-01-31",
+        "btc_volatility": 0.43376004880157437,
+        "spy_volatility": 0.19321020027499436,
+        "btc_spy_correlation": 0.565126512756509
+    },
+    {
+        "date": "2025-02-03",
+        "btc_volatility": 0.4611387527348917,
+        "spy_volatility": 0.19410380017655263,
+        "btc_spy_correlation": 0.5171536133558875
+    },
+    {
+        "date": "2025-02-04",
+        "btc_volatility": 0.47839249576196,
+        "spy_volatility": 0.16336162050931063,
+        "btc_spy_correlation": 0.32809719818090816
+    },
+    {
+        "date": "2025-02-05",
+        "btc_volatility": 0.45839983464221457,
+        "spy_volatility": 0.16362466209813298,
+        "btc_spy_correlation": 0.3195680623743798
+    },
+    {
+        "date": "2025-02-06",
+        "btc_volatility": 0.42133358832184875,
+        "spy_volatility": 0.15914976907008008,
+        "btc_spy_correlation": 0.3276664436180034
+    },
+    {
+        "date": "2025-02-07",
+        "btc_volatility": 0.41535989569683723,
+        "spy_volatility": 0.16177309621818683,
+        "btc_spy_correlation": 0.33639231805919967
+    },
+    {
+        "date": "2025-02-10",
+        "btc_volatility": 0.3971611735752647,
+        "spy_volatility": 0.15883611026801636,
+        "btc_spy_correlation": 0.2955565283056313
+    },
+    {
+        "date": "2025-02-11",
+        "btc_volatility": 0.40215977123187896,
+        "spy_volatility": 0.15884559010126972,
+        "btc_spy_correlation": 0.3031462150889835
+    },
+    {
+        "date": "2025-02-12",
+        "btc_volatility": 0.40887378248115697,
+        "spy_volatility": 0.1545930808739064,
+        "btc_spy_correlation": 0.2614861179487927
+    },
+    {
+        "date": "2025-02-13",
+        "btc_volatility": 0.40520501437133283,
+        "spy_volatility": 0.1522692385425764,
+        "btc_spy_correlation": 0.19847655698195918
+    },
+    {
+        "date": "2025-02-14",
+        "btc_volatility": 0.3796245403913035,
+        "spy_volatility": 0.15133729006764982,
+        "btc_spy_correlation": 0.20170624118591077
+    },
+    {
+        "date": "2025-02-18",
+        "btc_volatility": 0.3354561660882175,
+        "spy_volatility": 0.15079872317245863,
+        "btc_spy_correlation": 0.218409666344199
+    },
+    {
+        "date": "2025-02-19",
+        "btc_volatility": 0.3358857858299707,
+        "spy_volatility": 0.1455662684763062,
+        "btc_spy_correlation": 0.210085972028535
+    },
+    {
+        "date": "2025-02-20",
+        "btc_volatility": 0.31191683733795195,
+        "spy_volatility": 0.14575842696491462,
+        "btc_spy_correlation": 0.1695196758517283
+    },
+    {
+        "date": "2025-02-21",
+        "btc_volatility": 0.31082041128953325,
+        "spy_volatility": 0.15307071522981158,
+        "btc_spy_correlation": 0.13170732509413632
+    },
+    {
+        "date": "2025-02-24",
+        "btc_volatility": 0.34777144891274236,
+        "spy_volatility": 0.15411023879495642,
+        "btc_spy_correlation": 0.17603683250378965
+    },
+    {
+        "date": "2025-02-25",
+        "btc_volatility": 0.35621831127002274,
+        "spy_volatility": 0.1447841011987949,
+        "btc_spy_correlation": 0.28729413358437844
+    },
+    {
+        "date": "2025-02-26",
+        "btc_volatility": 0.3896735083096663,
+        "spy_volatility": 0.1447625889000949,
+        "btc_spy_correlation": 0.26843978267280577
+    },
+    {
+        "date": "2025-02-27",
+        "btc_volatility": 0.39173914539924815,
+        "spy_volatility": 0.15604690138085744,
+        "btc_spy_correlation": 0.23236426899486967
+    },
+    {
+        "date": "2025-02-28",
+        "btc_volatility": 0.37719246128713846,
+        "spy_volatility": 0.15251637912602323,
+        "btc_spy_correlation": 0.10062596009915549
+    },
+    {
+        "date": "2025-03-03",
+        "btc_volatility": 0.5926226713089896,
+        "spy_volatility": 0.16437441074959813,
+        "btc_spy_correlation": 0.283720071445754
+    },
+    {
+        "date": "2025-03-04",
+        "btc_volatility": 0.5886957036341784,
+        "spy_volatility": 0.16458112706708117,
+        "btc_spy_correlation": 0.19102350318258826
+    },
+    {
+        "date": "2025-03-05",
+        "btc_volatility": 0.589526118864075,
+        "spy_volatility": 0.16592457400717076,
+        "btc_spy_correlation": 0.2000554679256931
+    },
+    {
+        "date": "2025-03-06",
+        "btc_volatility": 0.5784546878632406,
+        "spy_volatility": 0.1738699552227429,
+        "btc_spy_correlation": 0.21480937196764835
+    },
+    {
+        "date": "2025-03-07",
+        "btc_volatility": 0.5886731489879498,
+        "spy_volatility": 0.1739484579750019,
+        "btc_spy_correlation": 0.1720599848312736
+    },
+    {
+        "date": "2025-03-10",
+        "btc_volatility": 0.629034166669037,
+        "spy_volatility": 0.1942507113549396,
+        "btc_spy_correlation": 0.2148100392008896
+    },
+    {
+        "date": "2025-03-11",
+        "btc_volatility": 0.6643990771525113,
+        "spy_volatility": 0.1909441822507283,
+        "btc_spy_correlation": 0.1609101866719724
+    },
+    {
+        "date": "2025-03-12",
+        "btc_volatility": 0.6641270840838807,
+        "spy_volatility": 0.1888839027665716,
+        "btc_spy_correlation": 0.17794111654540154
+    },
+    {
+        "date": "2025-03-13",
+        "btc_volatility": 0.6690616649460823,
+        "spy_volatility": 0.19250034963800372,
+        "btc_spy_correlation": 0.21238176854284496
+    },
+    {
+        "date": "2025-03-14",
+        "btc_volatility": 0.6774718161289348,
+        "spy_volatility": 0.2075258020268851,
+        "btc_spy_correlation": 0.280518160232606
+    },
+    {
+        "date": "2025-03-17",
+        "btc_volatility": 0.6824483515078893,
+        "spy_volatility": 0.21014085184694267,
+        "btc_spy_correlation": 0.29352645646717823
+    },
+    {
+        "date": "2025-03-18",
+        "btc_volatility": 0.682555259600243,
+        "spy_volatility": 0.21179167503882218,
+        "btc_spy_correlation": 0.33206251240998796
+    },
+    {
+        "date": "2025-03-19",
+        "btc_volatility": 0.7083844237431971,
+        "spy_volatility": 0.21445515330060236,
+        "btc_spy_correlation": 0.4126672843986225
+    },
+    {
+        "date": "2025-03-20",
+        "btc_volatility": 0.7148543936760997,
+        "spy_volatility": 0.2133881146542043,
+        "btc_spy_correlation": 0.4170130876043802
+    },
+    {
+        "date": "2025-03-21",
+        "btc_volatility": 0.7131863166721953,
+        "spy_volatility": 0.21262593181257985,
+        "btc_spy_correlation": 0.4171433387583275
+    },
+    {
+        "date": "2025-03-24",
+        "btc_volatility": 0.7174547648625316,
+        "spy_volatility": 0.2223001848548416,
+        "btc_spy_correlation": 0.4370413628890483
+    },
+    {
+        "date": "2025-03-25",
+        "btc_volatility": 0.717469088454249,
+        "spy_volatility": 0.22080007837477833,
+        "btc_spy_correlation": 0.4314392978466255
+    },
+    {
+        "date": "2025-03-26",
+        "btc_volatility": 0.6978914345048697,
+        "spy_volatility": 0.22359311573253232,
+        "btc_spy_correlation": 0.43203218562226703
+    },
+    {
+        "date": "2025-03-27",
+        "btc_volatility": 0.6894070576432956,
+        "spy_volatility": 0.22356029572449668,
+        "btc_spy_correlation": 0.4396773776041534
+    },
+    {
+        "date": "2025-03-28",
+        "btc_volatility": 0.6758248221276416,
+        "spy_volatility": 0.22763623180312806,
+        "btc_spy_correlation": 0.4822300816879173
+    },
+    {
+        "date": "2025-03-31",
+        "btc_volatility": 0.6757347019285693,
+        "spy_volatility": 0.22992076426066585,
+        "btc_spy_correlation": 0.48133402975764505
+    },
+    {
+        "date": "2025-04-01",
+        "btc_volatility": 0.593135717086443,
+        "spy_volatility": 0.22988674187351354,
+        "btc_spy_correlation": 0.48679745435825006
+    },
+    {
+        "date": "2025-04-02",
+        "btc_volatility": 0.524312840227818,
+        "spy_volatility": 0.23139931539383832,
+        "btc_spy_correlation": 0.4519768805570073
+    },
+    {
+        "date": "2025-04-03",
+        "btc_volatility": 0.5232408859546775,
+        "spy_volatility": 0.2830619052432235,
+        "btc_spy_correlation": 0.325276214875374
+    },
+    {
+        "date": "2025-04-04",
+        "btc_volatility": 0.5050316620503758,
+        "spy_volatility": 0.3385418619238299,
+        "btc_spy_correlation": 0.21542236324759945
+    },
+    {
+        "date": "2025-04-07",
+        "btc_volatility": 0.5352699263485232,
+        "spy_volatility": 0.3387725197057672,
+        "btc_spy_correlation": 0.22807893509172114
+    },
+    {
+        "date": "2025-04-08",
+        "btc_volatility": 0.5031182531567527,
+        "spy_volatility": 0.3406651932481211,
+        "btc_spy_correlation": 0.2477371729834734
+    },
+    {
+        "date": "2025-04-09",
+        "btc_volatility": 0.5736656557081351,
+        "spy_volatility": 0.515094001976265,
+        "btc_spy_correlation": 0.5109986819066199
+    },
+    {
+        "date": "2025-04-10",
+        "btc_volatility": 0.5556625653838301,
+        "spy_volatility": 0.533282550792849,
+        "btc_spy_correlation": 0.5414762681568984
+    },
+    {
+        "date": "2025-04-11",
+        "btc_volatility": 0.5804920001181825,
+        "spy_volatility": 0.5343295764222952,
+        "btc_spy_correlation": 0.5616647535081003
+    },
+    {
+        "date": "2025-04-14",
+        "btc_volatility": 0.5661915020947828,
+        "spy_volatility": 0.5335110010683691,
+        "btc_spy_correlation": 0.587980064350766
+    },
+    {
+        "date": "2025-04-15",
+        "btc_volatility": 0.5625654273163582,
+        "spy_volatility": 0.5323822299958586,
+        "btc_spy_correlation": 0.5907546442238211
+    },
+    {
+        "date": "2025-04-16",
+        "btc_volatility": 0.5595959390485965,
+        "spy_volatility": 0.5349578437270291,
+        "btc_spy_correlation": 0.5816213409507823
+    },
+    {
+        "date": "2025-04-17",
+        "btc_volatility": 0.557753550907543,
+        "spy_volatility": 0.5324686668897527,
+        "btc_spy_correlation": 0.5795826214646729
+    },
+    {
+        "date": "2025-04-21",
+        "btc_volatility": 0.5272728491736898,
+        "spy_volatility": 0.5368094719689613,
+        "btc_spy_correlation": 0.58063771904334
+    },
+    {
+        "date": "2025-04-22",
+        "btc_volatility": 0.5693702862759478,
+        "spy_volatility": 0.539435592434596,
+        "btc_spy_correlation": 0.586719504515198
+    },
+    {
+        "date": "2025-04-23",
+        "btc_volatility": 0.5673494384473041,
+        "spy_volatility": 0.5420723731329464,
+        "btc_spy_correlation": 0.6184964031916346
+    },
+    {
+        "date": "2025-04-24",
+        "btc_volatility": 0.5671749930159377,
+        "spy_volatility": 0.5470518105060196,
+        "btc_spy_correlation": 0.6088279836254712
+    },
+    {
+        "date": "2025-04-25",
+        "btc_volatility": 0.5665289465786438,
+        "spy_volatility": 0.5455601486146942,
+        "btc_spy_correlation": 0.6070159017158644
+    },
+    {
+        "date": "2025-04-28",
+        "btc_volatility": 0.5476630469347588,
+        "spy_volatility": 0.5406659360367807,
+        "btc_spy_correlation": 0.5977450371864241
+    },
+    {
+        "date": "2025-04-29",
+        "btc_volatility": 0.5488232166802466,
+        "spy_volatility": 0.5404270880428134,
+        "btc_spy_correlation": 0.588805257925179
+    },
+    {
+        "date": "2025-04-30",
+        "btc_volatility": 0.5491047572114678,
+        "spy_volatility": 0.5390920555044133,
+        "btc_spy_correlation": 0.5853105072014299
+    },
+    {
+        "date": "2025-05-01",
+        "btc_volatility": 0.5453419066524955,
+        "spy_volatility": 0.5382955534351703,
+        "btc_spy_correlation": 0.5914415750448899
+    },
+    {
+        "date": "2025-05-02",
+        "btc_volatility": 0.53004030307348,
+        "spy_volatility": 0.5406611795830633,
+        "btc_spy_correlation": 0.6011495850261275
+    },
+    {
+        "date": "2025-05-05",
+        "btc_volatility": 0.5372353885744647,
+        "spy_volatility": 0.5411065252910717,
+        "btc_spy_correlation": 0.6024874635631072
+    },
+    {
+        "date": "2025-05-06",
+        "btc_volatility": 0.48501323485816866,
+        "spy_volatility": 0.5381288931419108,
+        "btc_spy_correlation": 0.5910174405099216
+    },
+    {
+        "date": "2025-05-07",
+        "btc_volatility": 0.48530646338341654,
+        "spy_volatility": 0.5382888931108156,
+        "btc_spy_correlation": 0.5914902959559529
+    },
+    {
+        "date": "2025-05-08",
+        "btc_volatility": 0.4990950334591838,
+        "spy_volatility": 0.5372545932529905,
+        "btc_spy_correlation": 0.5647181470364686
+    },
+    {
+        "date": "2025-05-09",
+        "btc_volatility": 0.4277919734684691,
+        "spy_volatility": 0.5371848310091272,
+        "btc_spy_correlation": 0.5632869731750622
+    },
+    {
+        "date": "2025-05-12",
+        "btc_volatility": 0.3794848694869054,
+        "spy_volatility": 0.5438165947215202,
+        "btc_spy_correlation": 0.5001196698891334
+    },
+    {
+        "date": "2025-05-13",
+        "btc_volatility": 0.3697831665773674,
+        "spy_volatility": 0.5438048183459853,
+        "btc_spy_correlation": 0.5032415343406461
+    },
+    {
+        "date": "2025-05-14",
+        "btc_volatility": 0.37248343561472025,
+        "spy_volatility": 0.5438014405016498,
+        "btc_spy_correlation": 0.5051094847758318
+    },
+    {
+        "date": "2025-05-15",
+        "btc_volatility": 0.3671215966403872,
+        "spy_volatility": 0.5436777838696031,
+        "btc_spy_correlation": 0.5329619675906417
+    },
+    {
+        "date": "2025-05-16",
+        "btc_volatility": 0.36876386745630296,
+        "spy_volatility": 0.511458654135304,
+        "btc_spy_correlation": 0.555932035096792
+    },
+    {
+        "date": "2025-05-19",
+        "btc_volatility": 0.38215637415505127,
+        "spy_volatility": 0.45974645005873,
+        "btc_spy_correlation": 0.6097946198489244
+    },
+    {
+        "date": "2025-05-20",
+        "btc_volatility": 0.3818172910795138,
+        "spy_volatility": 0.4601042569520242,
+        "btc_spy_correlation": 0.6079843753736573
+    },
+    {
+        "date": "2025-05-21",
+        "btc_volatility": 0.3810083710611285,
+        "spy_volatility": 0.46081570617249457,
+        "btc_spy_correlation": 0.5628809794284834
+    },
+    {
+        "date": "2025-05-22",
+        "btc_volatility": 0.31682791527005294,
+        "spy_volatility": 0.28944845264434754,
+        "btc_spy_correlation": 0.2862816323160731
+    },
+    {
+        "date": "2025-05-23",
+        "btc_volatility": 0.3539958820552391,
+        "spy_volatility": 0.2400593929301968,
+        "btc_spy_correlation": 0.1294050740199427
+    },
+    {
+        "date": "2025-05-27",
+        "btc_volatility": 0.35220060779194673,
+        "spy_volatility": 0.2425027028474511,
+        "btc_spy_correlation": 0.030397134646057852
+    },
+    {
+        "date": "2025-05-28",
+        "btc_volatility": 0.3550762313164778,
+        "spy_volatility": 0.2435134563175189,
+        "btc_spy_correlation": 0.04947845498901057
+    },
+    {
+        "date": "2025-05-29",
+        "btc_volatility": 0.3527519835906282,
+        "spy_volatility": 0.24264018382292404,
+        "btc_spy_correlation": 0.03596548978479905
+    }
+]

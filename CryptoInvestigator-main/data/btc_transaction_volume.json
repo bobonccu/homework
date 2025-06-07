@@ -1,0 +1,1346 @@
+[
+    {
+        "datetime": "2024-05-30",
+        "transaction_volume": 249383.05263346026
+    },
+    {
+        "datetime": "2024-05-31",
+        "transaction_volume": 289318.19245174987
+    },
+    {
+        "datetime": "2024-06-01",
+        "transaction_volume": 105428.72804792003
+    },
+    {
+        "datetime": "2024-06-02",
+        "transaction_volume": 88408.13384977005
+    },
+    {
+        "datetime": "2024-06-03",
+        "transaction_volume": 280633.04165873013
+    },
+    {
+        "datetime": "2024-06-04",
+        "transaction_volume": 240150.78388342008
+    },
+    {
+        "datetime": "2024-06-05",
+        "transaction_volume": 256134.55305777013
+    },
+    {
+        "datetime": "2024-06-06",
+        "transaction_volume": 209467.94081535007
+    },
+    {
+        "datetime": "2024-06-07",
+        "transaction_volume": 221922.31860819008
+    },
+    {
+        "datetime": "2024-06-08",
+        "transaction_volume": 117803.05934947003
+    },
+    {
+        "datetime": "2024-06-09",
+        "transaction_volume": 79367.5490949101
+    },
+    {
+        "datetime": "2024-06-10",
+        "transaction_volume": 194328.97601231007
+    },
+    {
+        "datetime": "2024-06-11",
+        "transaction_volume": 261524.73515031
+    },
+    {
+        "datetime": "2024-06-12",
+        "transaction_volume": 235960.56860290005
+    },
+    {
+        "datetime": "2024-06-13",
+        "transaction_volume": 178463.18357505015
+    },
+    {
+        "datetime": "2024-06-14",
+        "transaction_volume": 230664.18646467998
+    },
+    {
+        "datetime": "2024-06-15",
+        "transaction_volume": 99266.06749698005
+    },
+    {
+        "datetime": "2024-06-16",
+        "transaction_volume": 76284.46274840001
+    },
+    {
+        "datetime": "2024-06-17",
+        "transaction_volume": 194562.63356753005
+    },
+    {
+        "datetime": "2024-06-18",
+        "transaction_volume": 234347.50731295
+    },
+    {
+        "datetime": "2024-06-19",
+        "transaction_volume": 147766.25239135005
+    },
+    {
+        "datetime": "2024-06-20",
+        "transaction_volume": 201875.7109668401
+    },
+    {
+        "datetime": "2024-06-21",
+        "transaction_volume": 190108.69429333013
+    },
+    {
+        "datetime": "2024-06-22",
+        "transaction_volume": 162659.52250314003
+    },
+    {
+        "datetime": "2024-06-23",
+        "transaction_volume": 85610.78819078006
+    },
+    {
+        "datetime": "2024-06-24",
+        "transaction_volume": 283991.82015071006
+    },
+    {
+        "datetime": "2024-06-25",
+        "transaction_volume": 250959.3579865401
+    },
+    {
+        "datetime": "2024-06-26",
+        "transaction_volume": 235560.20735786014
+    },
+    {
+        "datetime": "2024-06-27",
+        "transaction_volume": 275154.19536543
+    },
+    {
+        "datetime": "2024-06-28",
+        "transaction_volume": 289349.0047350499
+    },
+    {
+        "datetime": "2024-06-29",
+        "transaction_volume": 109935.0873127699
+    },
+    {
+        "datetime": "2024-06-30",
+        "transaction_volume": 92808.11491509005
+    },
+    {
+        "datetime": "2024-07-01",
+        "transaction_volume": 228324.55498667012
+    },
+    {
+        "datetime": "2024-07-02",
+        "transaction_volume": 194774.00433648995
+    },
+    {
+        "datetime": "2024-07-03",
+        "transaction_volume": 193213.36693365005
+    },
+    {
+        "datetime": "2024-07-04",
+        "transaction_volume": 286456.25549501
+    },
+    {
+        "datetime": "2024-07-05",
+        "transaction_volume": 464454.29595728003
+    },
+    {
+        "datetime": "2024-07-06",
+        "transaction_volume": 147488.31447870997
+    },
+    {
+        "datetime": "2024-07-07",
+        "transaction_volume": 150501.36282994
+    },
+    {
+        "datetime": "2024-07-08",
+        "transaction_volume": 367121.54238617956
+    },
+    {
+        "datetime": "2024-07-09",
+        "transaction_volume": 248501.94991245016
+    },
+    {
+        "datetime": "2024-07-10",
+        "transaction_volume": 284210.59849649004
+    },
+    {
+        "datetime": "2024-07-11",
+        "transaction_volume": 258684.72328642
+    },
+    {
+        "datetime": "2024-07-12",
+        "transaction_volume": 264064.93319203006
+    },
+    {
+        "datetime": "2024-07-13",
+        "transaction_volume": 125783.18598116
+    },
+    {
+        "datetime": "2024-07-14",
+        "transaction_volume": 93376.50519922006
+    },
+    {
+        "datetime": "2024-07-15",
+        "transaction_volume": 262380.34458487004
+    },
+    {
+        "datetime": "2024-07-16",
+        "transaction_volume": 371264.6905660802
+    },
+    {
+        "datetime": "2024-07-17",
+        "transaction_volume": 237039.69837936005
+    },
+    {
+        "datetime": "2024-07-18",
+        "transaction_volume": 207799.25046287003
+    },
+    {
+        "datetime": "2024-07-19",
+        "transaction_volume": 319550.84430303006
+    },
+    {
+        "datetime": "2024-07-20",
+        "transaction_volume": 130867.48322530999
+    },
+    {
+        "datetime": "2024-07-21",
+        "transaction_volume": 101393.36289927014
+    },
+    {
+        "datetime": "2024-07-22",
+        "transaction_volume": 278182.62796055013
+    },
+    {
+        "datetime": "2024-07-23",
+        "transaction_volume": 426128.81482550007
+    },
+    {
+        "datetime": "2024-07-24",
+        "transaction_volume": 346749.7386286102
+    },
+    {
+        "datetime": "2024-07-25",
+        "transaction_volume": 276093.77870592
+    },
+    {
+        "datetime": "2024-07-26",
+        "transaction_volume": 268214.42428039
+    },
+    {
+        "datetime": "2024-07-27",
+        "transaction_volume": 161627.06150954007
+    },
+    {
+        "datetime": "2024-07-28",
+        "transaction_volume": 107765.09291154006
+    },
+    {
+        "datetime": "2024-07-29",
+        "transaction_volume": 382390.7961552398
+    },
+    {
+        "datetime": "2024-07-30",
+        "transaction_volume": 434761.3349686399
+    },
+    {
+        "datetime": "2024-07-31",
+        "transaction_volume": 272525.3225758301
+    },
+    {
+        "datetime": "2024-08-01",
+        "transaction_volume": 356781.9565065398
+    },
+    {
+        "datetime": "2024-08-02",
+        "transaction_volume": 286293.28654464986
+    },
+    {
+        "datetime": "2024-08-03",
+        "transaction_volume": 128737.40293300997
+    },
+    {
+        "datetime": "2024-08-04",
+        "transaction_volume": 148481.23642784002
+    },
+    {
+        "datetime": "2024-08-05",
+        "transaction_volume": 521754.55461574
+    },
+    {
+        "datetime": "2024-08-06",
+        "transaction_volume": 271936.46631433
+    },
+    {
+        "datetime": "2024-08-07",
+        "transaction_volume": 306338.84579829
+    },
+    {
+        "datetime": "2024-08-08",
+        "transaction_volume": 231722.92918063994
+    },
+    {
+        "datetime": "2024-08-09",
+        "transaction_volume": 278497.2487576698
+    },
+    {
+        "datetime": "2024-08-10",
+        "transaction_volume": 135242.20325861996
+    },
+    {
+        "datetime": "2024-08-11",
+        "transaction_volume": 129854.64152200996
+    },
+    {
+        "datetime": "2024-08-12",
+        "transaction_volume": 229241.65617086002
+    },
+    {
+        "datetime": "2024-08-13",
+        "transaction_volume": 249500.62298490995
+    },
+    {
+        "datetime": "2024-08-14",
+        "transaction_volume": 254917.8979244502
+    },
+    {
+        "datetime": "2024-08-15",
+        "transaction_volume": 212668.63579848007
+    },
+    {
+        "datetime": "2024-08-16",
+        "transaction_volume": 207773.7012115901
+    },
+    {
+        "datetime": "2024-08-17",
+        "transaction_volume": 98524.48689622007
+    },
+    {
+        "datetime": "2024-08-18",
+        "transaction_volume": 101771.42172389002
+    },
+    {
+        "datetime": "2024-08-19",
+        "transaction_volume": 248644.76974754
+    },
+    {
+        "datetime": "2024-08-20",
+        "transaction_volume": 249101.19000384968
+    },
+    {
+        "datetime": "2024-08-21",
+        "transaction_volume": 225227.26820966997
+    },
+    {
+        "datetime": "2024-08-22",
+        "transaction_volume": 222972.1269324699
+    },
+    {
+        "datetime": "2024-08-23",
+        "transaction_volume": 316652.29105619004
+    },
+    {
+        "datetime": "2024-08-24",
+        "transaction_volume": 184573.41389245
+    },
+    {
+        "datetime": "2024-08-25",
+        "transaction_volume": 100587.14019161013
+    },
+    {
+        "datetime": "2024-08-26",
+        "transaction_volume": 208693.5364721801
+    },
+    {
+        "datetime": "2024-08-27",
+        "transaction_volume": 382617.52795663034
+    },
+    {
+        "datetime": "2024-08-28",
+        "transaction_volume": 300815.4619883001
+    },
+    {
+        "datetime": "2024-08-29",
+        "transaction_volume": 279574.44856482
+    },
+    {
+        "datetime": "2024-08-30",
+        "transaction_volume": 248865.22875289968
+    },
+    {
+        "datetime": "2024-08-31",
+        "transaction_volume": 122519.51741167008
+    },
+    {
+        "datetime": "2024-09-01",
+        "transaction_volume": 111527.50668167009
+    },
+    {
+        "datetime": "2024-09-02",
+        "transaction_volume": 143228.68499547002
+    },
+    {
+        "datetime": "2024-09-03",
+        "transaction_volume": 222856.92124499005
+    },
+    {
+        "datetime": "2024-09-04",
+        "transaction_volume": 228856.31115338003
+    },
+    {
+        "datetime": "2024-09-05",
+        "transaction_volume": 205472.30898019
+    },
+    {
+        "datetime": "2024-09-06",
+        "transaction_volume": 271730.59363228
+    },
+    {
+        "datetime": "2024-09-07",
+        "transaction_volume": 98923.8800022501
+    },
+    {
+        "datetime": "2024-09-08",
+        "transaction_volume": 96599.8724255001
+    },
+    {
+        "datetime": "2024-09-09",
+        "transaction_volume": 232653.62154533
+    },
+    {
+        "datetime": "2024-09-10",
+        "transaction_volume": 344154.77387664997
+    },
+    {
+        "datetime": "2024-09-11",
+        "transaction_volume": 289174.5052631901
+    },
+    {
+        "datetime": "2024-09-12",
+        "transaction_volume": 240869.68898136014
+    },
+    {
+        "datetime": "2024-09-13",
+        "transaction_volume": 258648.56475572995
+    },
+    {
+        "datetime": "2024-09-14",
+        "transaction_volume": 133245.93044924006
+    },
+    {
+        "datetime": "2024-09-15",
+        "transaction_volume": 115632.01134636007
+    },
+    {
+        "datetime": "2024-09-16",
+        "transaction_volume": 225073.38098071003
+    },
+    {
+        "datetime": "2024-09-17",
+        "transaction_volume": 216966.23485321004
+    },
+    {
+        "datetime": "2024-09-18",
+        "transaction_volume": 247953.77626361983
+    },
+    {
+        "datetime": "2024-09-19",
+        "transaction_volume": 283565.10067457
+    },
+    {
+        "datetime": "2024-09-20",
+        "transaction_volume": 346422.1841394
+    },
+    {
+        "datetime": "2024-09-21",
+        "transaction_volume": 110937.55653505007
+    },
+    {
+        "datetime": "2024-09-22",
+        "transaction_volume": 103302.4361851801
+    },
+    {
+        "datetime": "2024-09-23",
+        "transaction_volume": 255094.89765094008
+    },
+    {
+        "datetime": "2024-09-24",
+        "transaction_volume": 262388.85270963016
+    },
+    {
+        "datetime": "2024-09-25",
+        "transaction_volume": 265668.9340682401
+    },
+    {
+        "datetime": "2024-09-26",
+        "transaction_volume": 238072.29680371002
+    },
+    {
+        "datetime": "2024-09-27",
+        "transaction_volume": 287370.9189545201
+    },
+    {
+        "datetime": "2024-09-28",
+        "transaction_volume": 119528.16842773002
+    },
+    {
+        "datetime": "2024-09-29",
+        "transaction_volume": 101563.58190855008
+    },
+    {
+        "datetime": "2024-09-30",
+        "transaction_volume": 342875.51216245
+    },
+    {
+        "datetime": "2024-10-01",
+        "transaction_volume": 278671.55040274997
+    },
+    {
+        "datetime": "2024-10-02",
+        "transaction_volume": 281027.73397701
+    },
+    {
+        "datetime": "2024-10-03",
+        "transaction_volume": 246129.5872122599
+    },
+    {
+        "datetime": "2024-10-04",
+        "transaction_volume": 235056.73927791
+    },
+    {
+        "datetime": "2024-10-05",
+        "transaction_volume": 121985.74102552
+    },
+    {
+        "datetime": "2024-10-06",
+        "transaction_volume": 125249.14859628011
+    },
+    {
+        "datetime": "2024-10-07",
+        "transaction_volume": 266135.6001925799
+    },
+    {
+        "datetime": "2024-10-08",
+        "transaction_volume": 598652.94943196
+    },
+    {
+        "datetime": "2024-10-09",
+        "transaction_volume": 286824.18086697
+    },
+    {
+        "datetime": "2024-10-10",
+        "transaction_volume": 247048.94806974006
+    },
+    {
+        "datetime": "2024-10-11",
+        "transaction_volume": 301561.3911306101
+    },
+    {
+        "datetime": "2024-10-12",
+        "transaction_volume": 128678.31639990008
+    },
+    {
+        "datetime": "2024-10-13",
+        "transaction_volume": 96308.73867042006
+    },
+    {
+        "datetime": "2024-10-14",
+        "transaction_volume": 247523.33930071993
+    },
+    {
+        "datetime": "2024-10-15",
+        "transaction_volume": 359843.75188604
+    },
+    {
+        "datetime": "2024-10-16",
+        "transaction_volume": 317352.15061137005
+    },
+    {
+        "datetime": "2024-10-17",
+        "transaction_volume": 270845.99234386
+    },
+    {
+        "datetime": "2024-10-18",
+        "transaction_volume": 307586.82903399004
+    },
+    {
+        "datetime": "2024-10-19",
+        "transaction_volume": 132979.37419085013
+    },
+    {
+        "datetime": "2024-10-20",
+        "transaction_volume": 138395.84135837998
+    },
+    {
+        "datetime": "2024-10-21",
+        "transaction_volume": 255601.57037656006
+    },
+    {
+        "datetime": "2024-10-22",
+        "transaction_volume": 264476.59329923004
+    },
+    {
+        "datetime": "2024-10-23",
+        "transaction_volume": 223302.78026284
+    },
+    {
+        "datetime": "2024-10-24",
+        "transaction_volume": 254981.63170163997
+    },
+    {
+        "datetime": "2024-10-25",
+        "transaction_volume": 267492.27502561006
+    },
+    {
+        "datetime": "2024-10-26",
+        "transaction_volume": 125146.28764867011
+    },
+    {
+        "datetime": "2024-10-27",
+        "transaction_volume": 99591.0056448101
+    },
+    {
+        "datetime": "2024-10-28",
+        "transaction_volume": 312077.62359356997
+    },
+    {
+        "datetime": "2024-10-29",
+        "transaction_volume": 412445.1742987898
+    },
+    {
+        "datetime": "2024-10-30",
+        "transaction_volume": 354573.91191502
+    },
+    {
+        "datetime": "2024-10-31",
+        "transaction_volume": 342875.0131995901
+    },
+    {
+        "datetime": "2024-11-01",
+        "transaction_volume": 316677.22194359003
+    },
+    {
+        "datetime": "2024-11-02",
+        "transaction_volume": 108846.63246736009
+    },
+    {
+        "datetime": "2024-11-03",
+        "transaction_volume": 122136.56705977004
+    },
+    {
+        "datetime": "2024-11-04",
+        "transaction_volume": 272235.65454365
+    },
+    {
+        "datetime": "2024-11-05",
+        "transaction_volume": 337034.1663491603
+    },
+    {
+        "datetime": "2024-11-06",
+        "transaction_volume": 466637.79340984003
+    },
+    {
+        "datetime": "2024-11-07",
+        "transaction_volume": 382640.72770112
+    },
+    {
+        "datetime": "2024-11-08",
+        "transaction_volume": 422958.21547851985
+    },
+    {
+        "datetime": "2024-11-09",
+        "transaction_volume": 155579.1751011601
+    },
+    {
+        "datetime": "2024-11-10",
+        "transaction_volume": 241013.64967981022
+    },
+    {
+        "datetime": "2024-11-11",
+        "transaction_volume": 399597.1053859501
+    },
+    {
+        "datetime": "2024-11-12",
+        "transaction_volume": 559580.5619673801
+    },
+    {
+        "datetime": "2024-11-13",
+        "transaction_volume": 495455.6070957001
+    },
+    {
+        "datetime": "2024-11-14",
+        "transaction_volume": 528011.6406736898
+    },
+    {
+        "datetime": "2024-11-15",
+        "transaction_volume": 449113.70994609996
+    },
+    {
+        "datetime": "2024-11-16",
+        "transaction_volume": 169188.33025118025
+    },
+    {
+        "datetime": "2024-11-17",
+        "transaction_volume": 130368.55615284019
+    },
+    {
+        "datetime": "2024-11-18",
+        "transaction_volume": 350262.7941840302
+    },
+    {
+        "datetime": "2024-11-19",
+        "transaction_volume": 382258.0035947001
+    },
+    {
+        "datetime": "2024-11-20",
+        "transaction_volume": 409789.5388952199
+    },
+    {
+        "datetime": "2024-11-21",
+        "transaction_volume": 567596.7149834001
+    },
+    {
+        "datetime": "2024-11-22",
+        "transaction_volume": 498280.8702765201
+    },
+    {
+        "datetime": "2024-11-23",
+        "transaction_volume": 283969.58725152
+    },
+    {
+        "datetime": "2024-11-24",
+        "transaction_volume": 190837.51448194013
+    },
+    {
+        "datetime": "2024-11-25",
+        "transaction_volume": 431789.6607862801
+    },
+    {
+        "datetime": "2024-11-26",
+        "transaction_volume": 489538.51937742997
+    },
+    {
+        "datetime": "2024-11-27",
+        "transaction_volume": 332111.6513192802
+    },
+    {
+        "datetime": "2024-11-28",
+        "transaction_volume": 285057.02616648
+    },
+    {
+        "datetime": "2024-11-29",
+        "transaction_volume": 286124.98748412996
+    },
+    {
+        "datetime": "2024-11-30",
+        "transaction_volume": 145777.62671782012
+    },
+    {
+        "datetime": "2024-12-01",
+        "transaction_volume": 136743.69970628008
+    },
+    {
+        "datetime": "2024-12-02",
+        "transaction_volume": 359703.38586889
+    },
+    {
+        "datetime": "2024-12-03",
+        "transaction_volume": 323288.62964708975
+    },
+    {
+        "datetime": "2024-12-04",
+        "transaction_volume": 346151.81090308004
+    },
+    {
+        "datetime": "2024-12-05",
+        "transaction_volume": 635939.9224633098
+    },
+    {
+        "datetime": "2024-12-06",
+        "transaction_volume": 517847.40675112
+    },
+    {
+        "datetime": "2024-12-07",
+        "transaction_volume": 161439.7609137801
+    },
+    {
+        "datetime": "2024-12-08",
+        "transaction_volume": 136420.9971857302
+    },
+    {
+        "datetime": "2024-12-09",
+        "transaction_volume": 508816.99917695974
+    },
+    {
+        "datetime": "2024-12-10",
+        "transaction_volume": 398395.6807135199
+    },
+    {
+        "datetime": "2024-12-11",
+        "transaction_volume": 412856.9987283399
+    },
+    {
+        "datetime": "2024-12-12",
+        "transaction_volume": 329499.9369173203
+    },
+    {
+        "datetime": "2024-12-13",
+        "transaction_volume": 364237.8484427698
+    },
+    {
+        "datetime": "2024-12-14",
+        "transaction_volume": 148374.05168690011
+    },
+    {
+        "datetime": "2024-12-15",
+        "transaction_volume": 170001.3461728296
+    },
+    {
+        "datetime": "2024-12-16",
+        "transaction_volume": 392843.9906461
+    },
+    {
+        "datetime": "2024-12-17",
+        "transaction_volume": 363972.2746022199
+    },
+    {
+        "datetime": "2024-12-18",
+        "transaction_volume": 343827.00755760976
+    },
+    {
+        "datetime": "2024-12-19",
+        "transaction_volume": 439229.09575669013
+    },
+    {
+        "datetime": "2024-12-20",
+        "transaction_volume": 383834.1046724601
+    },
+    {
+        "datetime": "2024-12-21",
+        "transaction_volume": 179858.23796286012
+    },
+    {
+        "datetime": "2024-12-22",
+        "transaction_volume": 124933.48200811
+    },
+    {
+        "datetime": "2024-12-23",
+        "transaction_volume": 323592.0136906801
+    },
+    {
+        "datetime": "2024-12-24",
+        "transaction_volume": 267865.39037085
+    },
+    {
+        "datetime": "2024-12-25",
+        "transaction_volume": 143529.58556092
+    },
+    {
+        "datetime": "2024-12-26",
+        "transaction_volume": 219797.05288663
+    },
+    {
+        "datetime": "2024-12-27",
+        "transaction_volume": 253235.43675023006
+    },
+    {
+        "datetime": "2024-12-28",
+        "transaction_volume": 122087.97206239006
+    },
+    {
+        "datetime": "2024-12-29",
+        "transaction_volume": 169998.65815748004
+    },
+    {
+        "datetime": "2024-12-30",
+        "transaction_volume": 329030.05636550003
+    },
+    {
+        "datetime": "2024-12-31",
+        "transaction_volume": 316779.25287023006
+    },
+    {
+        "datetime": "2025-01-01",
+        "transaction_volume": 201337.32719288
+    },
+    {
+        "datetime": "2025-01-02",
+        "transaction_volume": 195219.84261603004
+    },
+    {
+        "datetime": "2025-01-03",
+        "transaction_volume": 218408.95944667008
+    },
+    {
+        "datetime": "2025-01-04",
+        "transaction_volume": 113968.6276103601
+    },
+    {
+        "datetime": "2025-01-05",
+        "transaction_volume": 118230.67775879003
+    },
+    {
+        "datetime": "2025-01-06",
+        "transaction_volume": 282135.63350521005
+    },
+    {
+        "datetime": "2025-01-07",
+        "transaction_volume": 284936.60834480985
+    },
+    {
+        "datetime": "2025-01-08",
+        "transaction_volume": 293499.9320963802
+    },
+    {
+        "datetime": "2025-01-09",
+        "transaction_volume": 224014.00495301024
+    },
+    {
+        "datetime": "2025-01-10",
+        "transaction_volume": 273277.92802945006
+    },
+    {
+        "datetime": "2025-01-11",
+        "transaction_volume": 131342.82318219004
+    },
+    {
+        "datetime": "2025-01-12",
+        "transaction_volume": 112972.09668867009
+    },
+    {
+        "datetime": "2025-01-13",
+        "transaction_volume": 201362.9139634901
+    },
+    {
+        "datetime": "2025-01-14",
+        "transaction_volume": 231254.99483414995
+    },
+    {
+        "datetime": "2025-01-15",
+        "transaction_volume": 260191.86887179996
+    },
+    {
+        "datetime": "2025-01-16",
+        "transaction_volume": 290447.99249624
+    },
+    {
+        "datetime": "2025-01-17",
+        "transaction_volume": 303008.7420182001
+    },
+    {
+        "datetime": "2025-01-18",
+        "transaction_volume": 173494.00082351002
+    },
+    {
+        "datetime": "2025-01-19",
+        "transaction_volume": 191192.7968430101
+    },
+    {
+        "datetime": "2025-01-20",
+        "transaction_volume": 289338.23389561
+    },
+    {
+        "datetime": "2025-01-21",
+        "transaction_volume": 289396.07456990005
+    },
+    {
+        "datetime": "2025-01-22",
+        "transaction_volume": 283134.10072922014
+    },
+    {
+        "datetime": "2025-01-23",
+        "transaction_volume": 305493.8791471698
+    },
+    {
+        "datetime": "2025-01-24",
+        "transaction_volume": 270589.63085650984
+    },
+    {
+        "datetime": "2025-01-25",
+        "transaction_volume": 141684.64559082015
+    },
+    {
+        "datetime": "2025-01-26",
+        "transaction_volume": 112775.0369647901
+    },
+    {
+        "datetime": "2025-01-27",
+        "transaction_volume": 283544.7511859701
+    },
+    {
+        "datetime": "2025-01-28",
+        "transaction_volume": 208655.90315698006
+    },
+    {
+        "datetime": "2025-01-29",
+        "transaction_volume": 183213.52008368002
+    },
+    {
+        "datetime": "2025-01-30",
+        "transaction_volume": 208117.31759040002
+    },
+    {
+        "datetime": "2025-01-31",
+        "transaction_volume": 250265.06755890994
+    },
+    {
+        "datetime": "2025-02-01",
+        "transaction_volume": 140304.4907838401
+    },
+    {
+        "datetime": "2025-02-02",
+        "transaction_volume": 152455.2260787001
+    },
+    {
+        "datetime": "2025-02-03",
+        "transaction_volume": 387527.63615628995
+    },
+    {
+        "datetime": "2025-02-04",
+        "transaction_volume": 336108.16880134
+    },
+    {
+        "datetime": "2025-02-05",
+        "transaction_volume": 348791.91948591004
+    },
+    {
+        "datetime": "2025-02-06",
+        "transaction_volume": 259911.91736221022
+    },
+    {
+        "datetime": "2025-02-07",
+        "transaction_volume": 229748.7957739501
+    },
+    {
+        "datetime": "2025-02-08",
+        "transaction_volume": 136123.0569881802
+    },
+    {
+        "datetime": "2025-02-09",
+        "transaction_volume": 131860.2989640702
+    },
+    {
+        "datetime": "2025-02-10",
+        "transaction_volume": 231513.57123729
+    },
+    {
+        "datetime": "2025-02-11",
+        "transaction_volume": 234383.94334536005
+    },
+    {
+        "datetime": "2025-02-12",
+        "transaction_volume": 194269.73316515004
+    },
+    {
+        "datetime": "2025-02-13",
+        "transaction_volume": 177671.68371669974
+    },
+    {
+        "datetime": "2025-02-14",
+        "transaction_volume": 222094.22408640012
+    },
+    {
+        "datetime": "2025-02-15",
+        "transaction_volume": 112813.24346175008
+    },
+    {
+        "datetime": "2025-02-16",
+        "transaction_volume": 100402.00734928007
+    },
+    {
+        "datetime": "2025-02-17",
+        "transaction_volume": 169846.84528528998
+    },
+    {
+        "datetime": "2025-02-18",
+        "transaction_volume": 197972.27288045036
+    },
+    {
+        "datetime": "2025-02-19",
+        "transaction_volume": 220760.27781979003
+    },
+    {
+        "datetime": "2025-02-20",
+        "transaction_volume": 208319.08290347015
+    },
+    {
+        "datetime": "2025-02-21",
+        "transaction_volume": 263010.3153663802
+    },
+    {
+        "datetime": "2025-02-22",
+        "transaction_volume": 196512.16609117977
+    },
+    {
+        "datetime": "2025-02-23",
+        "transaction_volume": 113575.36957770007
+    },
+    {
+        "datetime": "2025-02-24",
+        "transaction_volume": 199386.7966568696
+    },
+    {
+        "datetime": "2025-02-25",
+        "transaction_volume": 424159.47795859963
+    },
+    {
+        "datetime": "2025-02-26",
+        "transaction_volume": 415512.2063608094
+    },
+    {
+        "datetime": "2025-02-27",
+        "transaction_volume": 319039.2058488099
+    },
+    {
+        "datetime": "2025-02-28",
+        "transaction_volume": 362985.82357355
+    },
+    {
+        "datetime": "2025-03-01",
+        "transaction_volume": 169341.44829908
+    },
+    {
+        "datetime": "2025-03-02",
+        "transaction_volume": 183747.82594331994
+    },
+    {
+        "datetime": "2025-03-03",
+        "transaction_volume": 301207.6964281096
+    },
+    {
+        "datetime": "2025-03-04",
+        "transaction_volume": 261680.20429291987
+    },
+    {
+        "datetime": "2025-03-05",
+        "transaction_volume": 211093.17948462997
+    },
+    {
+        "datetime": "2025-03-06",
+        "transaction_volume": 247360.2793764301
+    },
+    {
+        "datetime": "2025-03-07",
+        "transaction_volume": 257041.51442362
+    },
+    {
+        "datetime": "2025-03-08",
+        "transaction_volume": 113319.07498360008
+    },
+    {
+        "datetime": "2025-03-09",
+        "transaction_volume": 122025.55763968012
+    },
+    {
+        "datetime": "2025-03-10",
+        "transaction_volume": 295381.5842050799
+    },
+    {
+        "datetime": "2025-03-11",
+        "transaction_volume": 292240.58106278
+    },
+    {
+        "datetime": "2025-03-12",
+        "transaction_volume": 272176.0192307498
+    },
+    {
+        "datetime": "2025-03-13",
+        "transaction_volume": 252756.9199212102
+    },
+    {
+        "datetime": "2025-03-14",
+        "transaction_volume": 200602.58334554016
+    },
+    {
+        "datetime": "2025-03-15",
+        "transaction_volume": 101437.79570523024
+    },
+    {
+        "datetime": "2025-03-16",
+        "transaction_volume": 102134.40524991012
+    },
+    {
+        "datetime": "2025-03-17",
+        "transaction_volume": 180040.74651665005
+    },
+    {
+        "datetime": "2025-03-18",
+        "transaction_volume": 179946.63415665002
+    },
+    {
+        "datetime": "2025-03-19",
+        "transaction_volume": 208332.00646213995
+    },
+    {
+        "datetime": "2025-03-20",
+        "transaction_volume": 224230.55119891991
+    },
+    {
+        "datetime": "2025-03-21",
+        "transaction_volume": 192109.84633397998
+    },
+    {
+        "datetime": "2025-03-22",
+        "transaction_volume": 99946.12440988023
+    },
+    {
+        "datetime": "2025-03-23",
+        "transaction_volume": 87364.07773395022
+    },
+    {
+        "datetime": "2025-03-24",
+        "transaction_volume": 209673.58899391015
+    },
+    {
+        "datetime": "2025-03-25",
+        "transaction_volume": 254847.36135782013
+    },
+    {
+        "datetime": "2025-03-26",
+        "transaction_volume": 249734.85324996995
+    },
+    {
+        "datetime": "2025-03-27",
+        "transaction_volume": 206936.92835778004
+    },
+    {
+        "datetime": "2025-03-28",
+        "transaction_volume": 292918.45938862994
+    },
+    {
+        "datetime": "2025-03-29",
+        "transaction_volume": 171530.6904855901
+    },
+    {
+        "datetime": "2025-03-30",
+        "transaction_volume": 181910.48406341003
+    },
+    {
+        "datetime": "2025-03-31",
+        "transaction_volume": 309483.92803984985
+    },
+    {
+        "datetime": "2025-04-01",
+        "transaction_volume": 208997.90071861
+    },
+    {
+        "datetime": "2025-04-02",
+        "transaction_volume": 278207.044376
+    },
+    {
+        "datetime": "2025-04-03",
+        "transaction_volume": 305371.3455124
+    },
+    {
+        "datetime": "2025-04-04",
+        "transaction_volume": 267970.96953249996
+    },
+    {
+        "datetime": "2025-04-05",
+        "transaction_volume": 138603.3916895101
+    },
+    {
+        "datetime": "2025-04-06",
+        "transaction_volume": 165943.23664654003
+    },
+    {
+        "datetime": "2025-04-07",
+        "transaction_volume": 365355.36193701
+    },
+    {
+        "datetime": "2025-04-08",
+        "transaction_volume": 273478.68308631994
+    },
+    {
+        "datetime": "2025-04-09",
+        "transaction_volume": 318890.13533047
+    },
+    {
+        "datetime": "2025-04-10",
+        "transaction_volume": 247341.51888686008
+    },
+    {
+        "datetime": "2025-04-11",
+        "transaction_volume": 274674.35121382994
+    },
+    {
+        "datetime": "2025-04-12",
+        "transaction_volume": 138382.67543228006
+    },
+    {
+        "datetime": "2025-04-13",
+        "transaction_volume": 126862.09061651031
+    },
+    {
+        "datetime": "2025-04-14",
+        "transaction_volume": 215634.30436023022
+    },
+    {
+        "datetime": "2025-04-15",
+        "transaction_volume": 196748.37285745997
+    },
+    {
+        "datetime": "2025-04-16",
+        "transaction_volume": 235893.11753097997
+    },
+    {
+        "datetime": "2025-04-17",
+        "transaction_volume": 228314.13465575935
+    },
+    {
+        "datetime": "2025-04-18",
+        "transaction_volume": 141392.9350954201
+    },
+    {
+        "datetime": "2025-04-19",
+        "transaction_volume": 108015.85593543039
+    },
+    {
+        "datetime": "2025-04-20",
+        "transaction_volume": 109389.74365694012
+    },
+    {
+        "datetime": "2025-04-21",
+        "transaction_volume": 209468.17774504016
+    },
+    {
+        "datetime": "2025-04-22",
+        "transaction_volume": 310925.52327577997
+    },
+    {
+        "datetime": "2025-04-23",
+        "transaction_volume": 339117.56678972987
+    },
+    {
+        "datetime": "2025-04-24",
+        "transaction_volume": 337652.8509911199
+    },
+    {
+        "datetime": "2025-04-25",
+        "transaction_volume": 371105.9562101198
+    },
+    {
+        "datetime": "2025-04-26",
+        "transaction_volume": 145511.22580703013
+    },
+    {
+        "datetime": "2025-04-27",
+        "transaction_volume": 132837.83332545028
+    },
+    {
+        "datetime": "2025-04-28",
+        "transaction_volume": 268485.4217652597
+    },
+    {
+        "datetime": "2025-04-29",
+        "transaction_volume": 300390.40505275
+    },
+    {
+        "datetime": "2025-04-30",
+        "transaction_volume": 46737.844669459955
+    }
+]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>價格與事件時間軸 - 比特幣數據洞察</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>比特幣數據洞察</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">首頁</a></li>
+                <li><a href="participants.html">交易者分析</a></li>
+                <li><a href="timeline_events.html" class="active">價格與事件時間軸</a></li>
+                <li><a href="btc_vs_stocks.html">比特幣 vs. 股市</a></li>
+                <li><a href="whale_sentiment.html">大戶與散戶行為</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="content-section">
+            <h2>價格與事件時間軸</h2>
+            <p>此頁面展示比特幣的收盤價歷史折線圖，並在時間軸上結合了來自 CryptoCompare 的重要市場事件。圖表中的特殊標記指示了當天有相關事件發生。您可以透過滑鼠懸停或點擊圖表上的數據點來查看具體事件詳情，從而分析這些事件與價格波動的可能關聯。</p>
+            
+            <div class="chart-container" style="position: relative; height:60vh; width:80vw; margin: auto; max-width: 100%;">
+                <canvas id="priceEventsChart"></canvas>
+            </div>
+            <div id="eventsDisplay" style="margin-top: 20px; padding: 10px; border: 1px solid #ccc; height: 200px; overflow-y: auto; background-color: #f9f9f9;">
+                <p>將滑鼠懸停在圖表上的數據點以查看相關事件。點擊圖表上的點可鎖定/解鎖當日事件列表。</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 比特幣數據洞察專案</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="../static/js/timeline_chart.js"></script>
+</body>
+</html> 
